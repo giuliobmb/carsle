@@ -1,5 +1,4 @@
-// ignore_for_file: prefer_const_constructors, prefer_const_literals_to_create_immutables
-
+import 'dart:ui'; // Necessario per usare l'effetto blur
 import 'package:flutter/material.dart';
 
 class GamePage extends StatefulWidget {
@@ -54,35 +53,20 @@ class _GamePageState extends State<GamePage> {
                   ),
                 ),
                 // Contenuto principale
+
                 Positioned(
                   top: 80, // Sotto la barra di ricerca
                   left: 10,
                   right: 10,
-                  child: Container(
-                    decoration: BoxDecoration(
-                      color: Colors.grey[800],
-                      borderRadius: BorderRadius.circular(15),
-                    ),
-                    child: Column(
-                      children: [
-                        // Immagine dell'auto
-                         Image.network('https://www.auto-data.net/images/f81/Alfa-Romeo-Giulia-952-facelift-2022_1.jpg', height: 200),
-                        
-                        const SizedBox(height: 10),
-                        // Informazioni dell'auto con riquadri
-                        buildInfoBox('Marca', 'Alfa Romeo'),
-                        const SizedBox(height: 5),
-                        buildInfoBox('Modello', 'Giulia'),
-                        const SizedBox(height: 5),
-                        buildInfoBox('Anno', '2021'),
-                        const SizedBox(height: 5),
-                        buildInfoBox('Tipologia', 'Berlina'),
-                        const SizedBox(height: 5),
-                        buildInfoBox('0-100 km/h', '5.7 secondi'),
-                        const SizedBox(height: 5),
-                        buildInfoBox('Paese del marchio', 'Italia'),
-                      ],
-                    ),
+                  bottom: 10, // Per riempire l'altezza disponibile
+                  child: ListView(
+                    children: [
+                      // Prima carta con informazioni dell'auto
+                      buildCarCard(),
+                      const SizedBox(height: 20),
+                      // Seconda carta con le stesse informazioni
+                      buildCarCard(),
+                    ],
                   ),
                 ),
               ],
@@ -97,12 +81,12 @@ class _GamePageState extends State<GamePage> {
     // Implementa la ricerca
   }
 
-  // Funzione per creare i riquadri delle informazioni
-  Widget buildInfoBox(String label, String value) {
+  // Funzione per creare i riquadri delle informazioni con colore opaco personalizzabile e testo nero
+  Widget buildInfoBox(String label, String value, Color color) {
     return Container(
       padding: const EdgeInsets.all(10),
       decoration: BoxDecoration(
-        color: Colors.grey[800],
+        color: color.withOpacity(0.5), // Colore personalizzato con opacità
         borderRadius: BorderRadius.circular(10),
       ),
       child: Row(
@@ -110,13 +94,64 @@ class _GamePageState extends State<GamePage> {
         children: [
           Text(
             label,
-            style: const TextStyle(color: Colors.white, fontSize: 16),
+            style: const TextStyle(color: Colors.black, fontSize: 16), // Testo nero
           ),
           Text(
             value,
-            style: const TextStyle(color: Colors.white, fontSize: 16),
+            style: const TextStyle(color: Colors.black, fontSize: 16), // Testo nero
           ),
         ],
+      ),
+    );
+  }
+
+  // Funzione per costruire la carta con i dati dell'auto, sfondo grigio e ombra
+  Widget buildCarCard() {
+    return ClipRRect(
+      borderRadius: BorderRadius.circular(15),
+      child: Container(
+        decoration: BoxDecoration(
+          color: Colors.grey.withOpacity(0.3), // Grigio trasparente
+          borderRadius: BorderRadius.circular(15),
+          boxShadow: [
+            BoxShadow(
+              color: Colors.black.withOpacity(0.3), // Colore dell'ombra
+              spreadRadius: 2,
+              blurRadius: 8,
+              offset: Offset(0, 4), // Posizione dell'ombra
+            ),
+          ],
+        ),
+        padding: const EdgeInsets.all(20),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            // Immagine dell'auto
+            Container(
+              height: 200,
+              decoration: BoxDecoration(
+                borderRadius: BorderRadius.circular(15),
+                image: const DecorationImage(
+                  image: AssetImage('assets/images/giulia.jpg'),
+                  fit: BoxFit.cover,
+                ),
+              ),
+            ),
+            const SizedBox(height: 20),
+            // Informazioni dell'auto con riquadri colorati e testo nero
+            buildInfoBox('Marca', 'Alfa Romeo', Colors.redAccent),
+            const SizedBox(height: 10),
+            buildInfoBox('Modello', 'Giulia', Colors.blueAccent),
+            const SizedBox(height: 10),
+            buildInfoBox('Anno', '2021', Colors.greenAccent),
+            const SizedBox(height: 10),
+            buildInfoBox('Tipologia', 'Berlina', Colors.purpleAccent),
+            const SizedBox(height: 10),
+            buildInfoBox('0-100 km/h', '5.7 secondi', Colors.orangeAccent),
+            const SizedBox(height: 10),
+            buildInfoBox('Paese del marchio', 'Italia', Colors.tealAccent),
+          ],
+        ),
       ),
     );
   }
