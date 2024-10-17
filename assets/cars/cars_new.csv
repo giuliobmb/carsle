@@ -1,0 +1,991 @@
+key,code,brand,model,type,seats,doors,accelleration,image,tag
+7782,7782,Ford,Mustang,Cabriolet,4,2,5.5 sec,https://www.auto-data.net//images/f116/Ford-Mustang-Convertible-IV_1.jpg,0
+20655,20655,BMW,1 Series,Coupe,4,2,8.4 sec,https://www.auto-data.net//images/f68/BMW-1-Series-Coupe-E82-LCI-facelift-2011_1.jpg,1
+44780,44780,Mercedes-Benz,Fintail,Sedan,5,4,30.2 sec,https://www.auto-data.net//images/f34/Mercedes-Benz-Fintail-W110_1.jpg,2
+38170,38170,Mazda,2,Hatchback,5,5,https://www.auto-data.net//images/f35/Mazda-2-III-DJ-facelift-2019_1.jpg,3
+47033,47033,Peugeot,107,Hatchback,4,3,14 sec,https://www.auto-data.net//images/f40/Peugeot-107-Phase-II-2008-3-door_1.jpg,4
+19047,19047,Audi,A5,Coupe,4,2,7.6 sec,https://www.auto-data.net//images/f81/Audi-A5-Coupe-8T3-facelift-2011_1.jpg,5
+19135,19135,Audi,A8,Sedan,5,4,5.9 sec,https://www.auto-data.net//images/f100/Audi-A8-D4-4H-facelift-2013_1.jpg,6
+48304,48304,GMC,Sierra 1500,Pick-up,3,2,https://www.auto-data.net//images/f126/GMC-Sierra-1500-I-GMT400-Regular-cab-LWB-Wideside_1.jpg,7
+11121,11121,Mazda,MPV,Minivan,7,4,16.4 sec,https://www.auto-data.net//images/f123/Mazda-MPV-I-LV_1.jpg,8
+43775,43775,Seat,Ibiza,Hatchback,5,5,12.1 sec,https://www.auto-data.net//images/f41/Seat-Ibiza-V-facelift-2021_1.jpg,9
+45013,45013,Jeep,Grand Cherokee,SUV,5,5,https://www.auto-data.net//images/f57/Jeep-Grand-Cherokee-V-WL_1.jpg,10
+5961,5961,Pontiac,Firebird,Coupe,2,https://www.auto-data.net//images/f110/Pontiac-Firebird-III_1.jpg,11
+40752,40752,Ford,F-Series F-250,Pick-up,6,2,https://www.auto-data.net//images/f104/Ford-F-Series-F-250-VI-SuperCab_1.jpg,12
+5234,5234,Land Rover,Discovery,SUV,7,5,11.5 sec,https://www.auto-data.net//images/f126/Land-Rover-Discovery-I_1.jpg,13
+35481,35481,Renault,Megane,Sedan,5,4,11.1 sec,https://www.auto-data.net//images/f19/file3609972.jpg,14
+25811,25811,Opel,Astra,Hatchback,5,3-5,15.5 sec,https://www.auto-data.net//images/f38/Opel-Astra-G_1.jpg,15
+11832,11832,Holden,Monaro,Coupe,4,2,https://www.auto-data.net//images/f8/big5428.jpg,16
+1409,1409,Alfa Romeo,33,Hatchback,5,5,https://www.auto-data.net//images/f82/Alfa-Romeo-33-905_1.jpg,17
+24273,24273,Mercedes-Benz,C-class,Cabriolet,4,2,8.9 sec,https://www.auto-data.net//images/f23/file822741.jpg,18
+38389,38389,Toyota,Venza,Station wagon,5,5,https://www.auto-data.net//images/f116/Toyota-Venza-facelift-2012_1.jpg,19
+26520,26520,Audi,A4,Sedan,5,4,14.8 sec,https://www.auto-data.net//images/f41/Audi-A4-B5-Typ-8D-facelift-1999_1.jpg,21
+28493,28493,Mercedes-Benz,CLS,Coupe,4,4,6.1 sec,https://www.auto-data.net//images/f92/Mercedes-Benz-CLS-coupe-C219_1.jpg,22
+30845,30845,Lancia,Musa,MPV,5,5,13.5 sec,https://www.auto-data.net//images/f20/lancia-musa-facelift-2007.jpg,23
+52111,52111,Haima,7X,MPV,7,5,https://www.auto-data.net//images/f51/Haima-7X_1.jpg,24
+7764,7764,Ford,Expedition,SUV,5,5,10 sec,https://www.auto-data.net//images/f127/Ford-Expedition-U173_1.jpg,25
+6009,6009,Pontiac,Grand AM,Sedan,5,4,https://www.auto-data.net//images/f5/big2915.jpg,26
+5772,5772,Eagle,Summit,Station wagon,5,5,https://www.auto-data.net//images/f61/Eagle-Summit-Wagon.jpg,27
+43289,43289,Mercedes-Benz,E-class,Sedan,5,4,10.6 sec,https://www.auto-data.net//images/f47/Mercedes-Benz-E-class-W124_1.jpg,28
+40345,40345,Renault,Master,"Minivan, MPV",3,4,15 sec,https://www.auto-data.net//images/f126/Renault-Master-III-Phase-II-2014-Panel-Van_1.jpg,29
+29963,29963,Nissan,Qashqai,"SUV, Crossover",5,5,10.6 sec,https://www.auto-data.net//images/f63/Nissan-Qashqai_1.jpg,30
+7113,7113,Fiat,Brava,Hatchback,5,5,12 sec,https://www.auto-data.net//images/f97/Fiat-Brava-182_1.jpg,31
+10774,10774,Renault,19,Sedan,5,4,9.9 sec,https://www.auto-data.net//images/f123/Renault-19-Chamade-L53-facelift-2002_1.jpg,32
+27558,27558,BMW,3 Series,Sedan,5,4,7.6 sec,https://www.auto-data.net//images/f62/BMW-3-Series-Sedan-E90-facelift-2009_1.jpg,33
+27320,27320,Mini,Clubman,Station wagon,5,5,6.3 sec,https://www.auto-data.net//images/f1/file3275003.jpg,34
+9904,9904,BMW,Z4,Roadster,2,2,7 sec,https://www.auto-data.net//images/f56/BMW-Z4-E85_1.jpg,35
+3858,3858,Toyota,Estima,Minivan,8,4,https://www.auto-data.net//images/f93/Toyota-Estima-I.jpg,36
+27240,27240,Audi,200,Sedan,5,4,9.2. sec,https://www.auto-data.net//images/f106/Audi-200-C3-Typ-44-44Q_1.jpg,37
+36229,36229,Chevrolet,Silverado 1500,Pick-up,3,2,https://www.auto-data.net//images/f31/Chevrolet-Silverado-1500-IV-Regular-Cab-Long-Box_1.jpg,39
+27737,27737,Mercedes-Benz,GLA,SUV,5,5,11.9 sec,https://www.auto-data.net//images/f30/mercedes-benz-gla-x156-facelift-2017.jpg,41
+1194,1194,Jeep,CJ,Off-road vehicle,https://www.auto-data.net//images/f88/Jeep-CJ-5_1.jpg,42
+179,179,Jaguar,XJ,Sedan,5,4,6.6 sec,https://www.auto-data.net//images/f60/Jaguar-XJ-X350_1.jpg,43
+37574,37574,Skoda,Karoq,SUV,5,5,7.4 sec,https://www.auto-data.net//images/f39/Skoda-Karoq-Scout_1.jpg,45
+7584,7584,Ford,Sierra,Hatchback,5,3/5,https://www.auto-data.net//images/f124/Ford-Sierra-Hatchback-II.jpg,48
+34707,34707,Peugeot,307,Coupe - Cabriolet,4,2,10.1 sec,https://www.auto-data.net//images/f29/Peugeot-307-CC-facelift-2005.jpg,49
+38341,38341,Volkswagen,Lavida,Station wagon,5,5,8.3 sec,https://www.auto-data.net//images/f43/Volkswagen-Gran-Lavida-III_1.jpg,50
+8751,8751,Volkswagen,Golf,Cabriolet,4,2,15.5 sec,https://www.auto-data.net//images/f72/Volkswagen-Golf-III-Cabrio1E_1.jpg,51
+16666,16666,Renault,Clio,Hatchback,5,2/3,7.8 sec,https://www.auto-data.net//images/f41/Renault-Clio-I_1.jpg,53
+52351,52351,Trumpchi,GS3,SUV,5,5,10.6 sec,https://www.auto-data.net//images/f112/Trumpchi-GS3-Power-facelift-2020_1.jpg,54
+50345,50345,Volkswagen,Transporter,Van,4-9,4-5,13.4 sec,https://www.auto-data.net//images/f33/Volkswagen-Transporter-T5-facelift-2009-Kombi_1.jpg,55
+24663,24663,Fiat,Fullback,Pick-up,4,2,https://www.auto-data.net//images/f0/file8863744.jpg,56
+31418,31418,Infiniti,Q50,Sedan,5,4,7.2 sec,https://www.auto-data.net//images/f17/infiniti-q50-facelift-2017.jpg,57
+50588,50588,Toyota,Yaris Cross,"SUV, Crossover",5,5,https://www.auto-data.net//images/f106/Toyota-Yaris-Cross-AC200_1.jpg,58
+27269,27269,Skoda,Octavia,Hatchback,5,5,8.5 sec,https://www.auto-data.net//images/f16/file805364.jpg,59
+47946,47946,Chevrolet,Traverse,"SUV, Crossover",7-8,5,https://www.auto-data.net//images/f111/Chevrolet-Traverse-II-facelift-2021_1.jpg,60
+10359,10359,Renault,12,Sedan,5,4,https://www.auto-data.net//images/f95/Renault-12_1.jpg,61
+31485,31485,Kia,Sportage,SUV,5,5,10.4 sec,https://www.auto-data.net//images/f0/file7980085.jpg,62
+28117,28117,BMW,7 Series,Sedan,5,4,10.5 sec,https://www.auto-data.net//images/f2/bmw-7er-e23-facelift-1983.jpg,63
+15565,15565,Mitsubishi,Dingo,Hatchback,5,5,https://www.auto-data.net//images/f93/Mitsubishi-Dingo-CJ_1.jpg,64
+40694,40694,Ford,Bronco Sport,"SUV, Crossover",5,5,https://www.auto-data.net//images/f66/Ford-Bronco-Sport_1.jpg,65
+24023,24023,BMW,2 Series,Coupe,4,2,4.8 sec,https://www.auto-data.net//images/f46/BMW-2-Series-Coupe-F22_1.jpg,67
+3726,3726,Toyota,Land Cruiser,SUV,5,5,12.6 sec,https://www.auto-data.net//images/f94/Toyota-Land-Cruiser-80.jpg,68
+36600,36600,Jaguar,F-Pace,SUV,5,5,8.6 sec,https://www.auto-data.net//images/f5/file742077.jpg,69
+5239,5239,Peugeot,1007,Minivan,4,3,11.8 sec,https://www.auto-data.net//images/f113/Peugeot-1007_1.jpg,70
+8583,8583,Volkswagen,Bora,Station wagon,5,5,13.2 sec,https://www.auto-data.net//images/f100/Volkswagen-Bora-Variant-1J6_1.jpg,71
+11554,11554,Rover,Mini MK,Hatchback,5,3,12.7 sec,https://www.auto-data.net//images/f1/big5301.jpg,72
+21271,21271,Citroen,DS3,Hatchback,5,3,9.3 sec,https://www.auto-data.net//images/f17/file9216033.jpg,73
+42212,42212,Alfa Romeo,159,Sedan,5,4,8.8 sec,https://www.auto-data.net//images/f56/Alfa-Romeo-159_1.jpg,74
+17628,17628,Peugeot,308,Station wagon,5,5,9.8 sec,https://www.auto-data.net//images/f65/Peugeot-308-SW-I-Phase-II-2011_1.jpg,76
+12318,12318,Honda,Today,Hatchback,4,3,https://www.auto-data.net//images/f103/Honda-Today.jpg,77
+46233,46233,Honda,Accord,Sedan,5,4,https://www.auto-data.net//images/f61/Honda-Accord-X-facelift-2020_1.jpg,82
+18201,18201,Citroen,C4,"Minivan, MPV",5,5,13.3 sec,https://www.auto-data.net//images/f13/citroen-c4-i-picasso-phase-i-2010.jpg,83
+14881,14881,Smart,Roadster,Cabriolet,2,2,10.9 sec,https://www.auto-data.net//images/f88/Smart-Roadster-cabrio_1.jpg,85
+10498,10498,Renault,Espace,"Minivan, MPV",7,5,10.9 sec,https://www.auto-data.net//images/f6/big4716.jpg,86
+22169,22169,Fiat,500L,Hatchback,5,5,16 sec,https://www.auto-data.net//images/f8/file4622740.jpg,87
+5767,5767,Autobianchi,A 112,Hatchback,https://www.auto-data.net//images/f75/Autobianchi-A-112.jpg,89
+7942,7942,Ford,Consul,Coupe,https://www.auto-data.net//images/f75/Ford-Consul-Coupe-GGCL_1.jpg,90
+33000,33000,Nissan,Altima,Sedan,5,4,https://www.auto-data.net//images/f15/nissan-altima-v-facelift-2016.jpg,91
+5555,5555,Peugeot,305,Station wagon,https://www.auto-data.net//images/f53/Peugeot-305-II-Break-581E.jpg,92
+20887,20887,Mercedes-Benz,B-class,Hatchback,5,5,11.9 sec,https://www.auto-data.net//images/f6/file4718550.jpg,94
+20517,20517,Volkswagen,Scirocco,Coupe,4,3,7.4 sec,https://www.auto-data.net//images/f126/Volkswagen-Scirocco-facelift-2014_1.jpg,95
+15492,15492,Mitsubishi,Pajero,SUV,5,3,17 sec,https://www.auto-data.net//images/f47/Mitsubishi-Pajero-III_1.jpg,96
+23799,23799,Pagani,Zonda,Coupe,2,2,3.4 sec,https://www.auto-data.net//images/f14/file463278.jpg,97
+23507,23507,Opel,Mokka,SUV,5,5,12.5 sec,https://www.auto-data.net//images/f91/Opel-Mokka_1.jpg,98
+2097,2097,Opel,Corsa,Hatchback,5,3,8.1 sec,https://www.auto-data.net//images/f91/Opel-Corsa-D-3-door_1.jpg,99
+7268,7268,Fiat,X 1/9,Targa,2,2,11.7 sec,https://www.auto-data.net//images/f66/Fiat-X-1-9-128-AS.jpg,100
+3414,3414,Toyota,Corolla,Hatchback,5,5,https://www.auto-data.net//images/f42/Toyota-Corolla-Hatch-V-E80.jpg,101
+5662,5662,Peugeot,205,Hatchback,5,3,7.8 sec,https://www.auto-data.net//images/f98/Peugeot-205-I-20A-C-facelift-1987_1.jpg,102
+4753,4753,Audi,A6,Sedan,5,4,11.2 sec,https://www.auto-data.net//images/f128/Audi-A6-4A-C4_1.jpg,103
+15448,15448,Mitsubishi,Grandis,Minivan,7,5,10.8 sec,https://www.auto-data.net//images/f38/Mitsubishi-Grandis_1.jpg,104
+36986,36986,Mercedes-Benz,S-class,Sedan,5,4,4.8 sec,https://www.auto-data.net//images/f111/Mercedes-Benz-S-class-Long-V220-facelift-2002_1.jpg,105
+30864,30864,GMC,Jimmy,SUV,5,3,https://www.auto-data.net//images/f68/GMC-Jimmy-S-15_1.jpg,106
+42438,42438,Kia,Cee'd,Station wagon,5,5,11.1 sec,https://www.auto-data.net//images/f46/Kia-Ceed-SW-I_1.jpg,108
+2760,2760,Kia,Sephia,Sedan,5,4,11.8 sec,https://www.auto-data.net//images/f65/Kia-Sephia-II_1.jpg,110
+638,638,Nissan,Primera,Sedan,5,4,16.5 sec,https://www.auto-data.net//images/f54/Nissan-Primera-P10_1.jpg,111
+23234,23234,Volvo,V60,Station wagon,5,5,6 sec,https://www.auto-data.net//images/f89/Volvo-V60-I-2013-facelift_1.jpg,112
+29234,29234,Opel,Insignia,Hatchback,5,5,10.5 sec,https://www.auto-data.net//images/f24/opel-insignia-grand-sport.jpg,113
+39039,39039,Citroen,C1,Hatchback,4,3,13.8 sec,https://www.auto-data.net//images/f28/file7399042.jpg,114
+38856,38856,BAIC Motor,Senova D50,Sedan,5,4,https://www.auto-data.net//images/f42/BAIC-Motor-Senova-D50-I_1.jpg,115
+10614,10614,Renault,Sport Spider,Cabriolet,2,2,6.9 sec,https://www.auto-data.net//images/f109/Renault-Sport-Spider_1.jpg,116
+9645,9645,BMW,5 Series,Station wagon,5,5,10.6 sec,https://www.auto-data.net//images/f123/BMW-5-Series-Touring-E39_1.jpg,117
+6265,6265,Vauxhall,Nova,Hatchback,5,3-5,https://www.auto-data.net//images/f32/Vauxhall-Nova-CC_1.jpg,118
+37778,37778,Kia,K3,Sedan,5,4,https://www.auto-data.net//images/f92/Kia-K3.jpg,121
+11365,11365,Mazda,Familia,Sedan,5,4,https://www.auto-data.net//images/f1/big5201.jpg,123
+39517,39517,Renault,Scenic,Minivan,5,5,https://www.auto-data.net//images/f111/Renault-Grand-Scenic-II_1.jpg,124
+19124,19124,Audi,S6,Sedan,5,4,4.6 sec,https://www.auto-data.net//images/f104/Audi-S6-C7_1.jpg,126
+37596,37596,Chevrolet,Bolt EV,Hatchback,5,5,https://www.auto-data.net//images/f23/chevrolet-bolt-ev.jpg,128
+34319,34319,Peugeot,408,Sedan,5,4,https://www.auto-data.net//images/f4/Peugeot-408-II.jpg,129
+781,781,Nissan,Frontier,Pick-up,5,4,https://www.auto-data.net//images/f98/Nissan-Frontier-II-Crew-Cab-D40.jpg,130
+26945,26945,Audi,A3,Hatchback,5,3-5,8.2 sec,https://www.auto-data.net//images/f19/file3107293.jpg,131
+29190,29190,Volkswagen,Passat,Sedan,5,4,9.6 sec,https://www.auto-data.net//images/f62/Volkswagen-Passat-B5.5_1.jpg,134
+7157,7157,Fiat,Ulysse,Minivan,5,4,15.5 sec,https://www.auto-data.net//images/f1/big3251.jpg,135
+31756,31756,GMC,Canyon,Pick-up,4-5,4,https://www.auto-data.net//images/f29/gmc-canyon-i-extended-cab.jpg,137
+11274,11274,Mazda,626,Station wagon,5,5,10.6 sec,https://www.auto-data.net//images/f90/Mazda-626-V-Station-Wagon-GF-GW_1.jpg,138
+52445,52445,Volkswagen,Polo,Hatchback,5,3,12.7 sec,https://www.auto-data.net//images/f38/Volkswagen-Polo-V-3-door_1.jpg,139
+23476,23476,Mercedes-Benz,CLK,Cabriolet,4,2,9.3 sec,https://www.auto-data.net//images/f5/file9380302.jpg,140
+27283,27283,Audi,TT,Coupe,4,3,5.4 sec,https://www.auto-data.net//images/f23/file6103189.jpg,142
+21794,21794,Volvo,XC60,"SUV, Crossover",5,5,7.2 sec,https://www.auto-data.net//images/f129/Volvo-XC60-I-2013-facelift_1.jpg,143
+5212,5212,Land Rover,Range Rover,SUV,https://www.auto-data.net//images/f119/Land-Rover-Range-Rover-I_1.jpg,145
+3803,3803,Toyota,Mark II,Sedan,https://www.auto-data.net//images/f47/Toyota-Mark-II-G71.jpg,151
+11605,11605,Rover,Montego,Sedan,https://www.auto-data.net//images/f120/Rover-Montego.jpg,152
+28172,28172,Citroen,CX,Hatchback,5,5,12 sec,https://www.auto-data.net//images/f8/citroen-cx-i.jpg,153
+40780,40780,Volkswagen,Tiguan,SUV,5,5,https://www.auto-data.net//images/f57/Volkswagen-Tiguan-II-facelift-2020_1.jpg,155
+34602,34602,Skoda,Rapid,Hatchback,5,5,9.1 sec,https://www.auto-data.net//images/f14/skoda-rapid-spaceback-facelift-2017.jpg,156
+28042,28042,Vauxhall,Insignia,Station wagon,5,5,9.5 sec,https://www.auto-data.net//images/f27/vauxhall-insignia-i-sports-tourer.jpg,159
+4497,4497,Audi,S5,Coupe,4,2,5.4 sec,https://www.auto-data.net//images/f44/Audi-S5-Coupe-8T_1.jpg,161
+33488,33488,Chevrolet,Camaro,Coupe,4,2,https://www.auto-data.net//images/f123/Chevrolet-Camaro-V-facelift-2013_1.jpg,162
+17480,17480,Maserati,GranCabrio,Cabriolet,4,3,5.3 sec,https://www.auto-data.net//images/f24/file9402741.jpg,163
+35287,35287,Honda,N-Box,MPV,4,5,https://www.auto-data.net//images/f1/Honda-N-Box-I.jpg,166
+33013,33013,Kia,Rio,Sedan,5,4,https://www.auto-data.net//images/f120/Kia-Rio-IV-Sedan-YB_1.jpg,168
+33248,33248,Peugeot,508,Fastback,5,5,8.4 sec,https://www.auto-data.net//images/f26/peugeot-508-ii.jpg,169
+817,817,Nissan,Avenir,Station wagon,5,5,https://www.auto-data.net//images/f42/Nissan-Avenir-W11_1.jpg,170
+23333,23333,Opel,Adam,Hatchback,4,3,12.5 sec,https://www.auto-data.net//images/f126/Opel-Adam_1.jpg,171
+1567,1567,Alfa Romeo,Brera,Coupe,4,2,8.3 sec,https://www.auto-data.net//images/f42/Alfa-Romeo-Brera_1.jpg,172
+26143,26143,Opel,Vivaro,Minivan,9,4,https://www.auto-data.net//images/f113/Opel-Vivaro-B_1.jpg,174
+47356,47356,Mercedes-Benz,GLE,SUV,5,5,6.1 sec,https://www.auto-data.net//images/f84/Mercedes-Benz-GLE-SUV-V167-facelift-2023_1.jpg,175
+45428,45428,Vauxhall,Astra,Station wagon,5,5,https://www.auto-data.net//images/f88/Vauxhall-Astra-Mk-VIII-Sports-Tourer_3.jpg,176
+13954,13954,ZAZ,1103,Hatchback,5,5,12.5 sec,https://www.auto-data.net//images/f110/ZAZ-1103_1.jpg,178
+33906,33906,Buick,Regal,Station wagon,5,5,https://www.auto-data.net//images/f130/Buick-Regal-II-Station-Wagon.jpg,180
+22869,22869,Jaguar,XF,Sedan,5,4,8.4 sec,https://www.auto-data.net//images/f3/file2073702.jpg,181
+15235,15235,Citroen,BX,Hatchback,5,5,13.8 sec,https://www.auto-data.net//images/f110/Citroen-BX-I-Phase-II-1987_1.jpg,183
+9877,9877,BMW,M3,Cabriolet,4,2,5.6 sec,https://www.auto-data.net//images/f122/BMW-M3-Convertible-E36_1.jpg,184
+35541,35541,RAM,2500/3500,Pick-up,5-6,4,https://www.auto-data.net//images/f24/RAM-2500-3500-Crew-Cab-Long-box-II-DT.jpg,186
+42629,42629,Subaru,Impreza,Station wagon,5,5,13.7 sec,https://www.auto-data.net//images/f67/Subaru-Impreza-II-Station-Wagon-facelift-2005_1.jpg,187
+23919,23919,Suzuki,Swift,Hatchback,5,3-5,12.5 sec,https://www.auto-data.net//images/f37/Suzuki-Swift-II_1.jpg,188
+49013,49013,Mercedes-Benz,CLE,Coupe,4,2,4.4 sec,https://www.auto-data.net//images/f78/Mercedes-Benz-CLE-Coupe_1.jpg,189
+15305,15305,Citroen,C5,Sedan,5,4,9.8 sec,https://www.auto-data.net//images/f46/Citroen-C5-I-Phase-II-2004_1.jpg,191
+16236,16236,Subaru,Leone,Station wagon,5,5,https://www.auto-data.net//images/f117/Subaru-Leone-III-Station-Wagon.jpg,192
+28861,28861,Saturn,VUE,Off-road vehicle,5,5,10.2 sec,https://www.auto-data.net//images/f4/big5924.jpg,194
+19850,19850,Ford,Tourneo Courier,MPV,5,5,14 sec,https://www.auto-data.net//images/f56/Ford-Tourneo-Courier-I_1.jpg,196
+34144,34144,Abarth,595,Cabriolet,4,3,7.3 sec,https://www.auto-data.net//images/f34/Abarth-595C.jpg,198
+42666,42666,Mercedes-Benz,Citan,Minivan,5,5,https://www.auto-data.net//images/f103/Mercedes-Benz-Citan-Tourer-W415_1.jpg,199
+26926,26926,Seat,Leon,Station wagon,5,5,7.7 sec,https://www.auto-data.net//images/f2/file81336.jpg,200
+42139,42139,Acura,NSX,Targa,2,2,https://www.auto-data.net//images/f125/Acura-NSX-I-facelift-2002_1.jpg,201
+661,661,Nissan,Terrano,SUV,5,3/5,https://www.auto-data.net//images/f63/Nissan-Terrano-I-WD21.jpg,204
+40066,40066,Ford,F-Series F-100/F-150,Pick-up,3,2,https://www.auto-data.net//images/f118/Ford-F-100-VI-Regular-Cab_1.jpg,206
+50574,50574,Volvo,S80,Sedan,5,4,9.8 sec,https://www.auto-data.net//images/f117/Volvo-S80-facelift-2003_1.jpg,209
+31456,31456,Mazda,3,Sedan,5,4,10.6 sec,https://www.auto-data.net//images/f43/Mazda-3-II-Sedan-BL_1.jpg,210
+43193,43193,Volvo,C70,Coupe - Cabriolet,4,2,7.6 sec,https://www.auto-data.net//images/f61/Volvo-C70-Coupe-Cabrio-II_1.jpg,211
+22069,22069,Ford,Galaxy,Minivan,5-7,5,13.6 sec,https://www.auto-data.net//images/f23/file9280458.jpg,212
+13847,13847,Hyundai,Coupe,Coupe,4,2,11.2 sec,https://www.auto-data.net//images/f89/Hyundai-Coupe-I-RD_1.jpg,213
+39,39,Daihatsu,Pyzar,Minivan,5,5,https://www.auto-data.net//images/f106/Daihatsu-Pyzar-G3.jpg,214
+20747,20747,Audi,Q3,SUV,5,5,9.6 sec,https://www.auto-data.net//images/f17/file4304020.jpg,215
+6086,6086,Vauxhall,Combo,Pick-up,2,3,https://www.auto-data.net//images/f109/Vauxhall-Combo-B.jpg,218
+38115,38115,Toyota,C-HR,SUV,5,5,10.9 sec,https://www.auto-data.net//images/f32/Toyota-C-HR-facelift-2020_1.jpg,220
+31034,31034,Lincoln,MKS,Sedan,5,4,https://www.auto-data.net//images/f0/lincoln-mks-i-facelift-2013.jpg,222
+20408,20408,Skoda,Fabia,Station wagon,5,5,11 sec,https://www.auto-data.net//images/f29/file820534.jpg,223
+29796,29796,Renault,Captur,Crossover,5,5,13.1 sec,https://www.auto-data.net//images/f1/renault-captur-facelift-2017_1.jpg,224
+36612,36612,Fiat,Panda,Hatchback,4-5,5,12.8 sec,https://www.auto-data.net//images/f83/Fiat-Panda-III-4x4_1.jpg,228
+17516,17516,Mazda,CX-5,SUV,5,5,10.5 sec,https://www.auto-data.net//images/f20/file4386385.jpg,229
+856,856,Nissan,Bluebird,Sedan,5,4,11.9 sec,https://www.auto-data.net//images/f71/Nissan-Bluebird-Sylphy-I_1.jpg,230
+51538,51538,Lynk & Co,01,SUV,5,5,9 sec,https://www.auto-data.net//images/f109/Lynk-Co-01-facelift-2020_3.jpg,232
+33660,33660,Jeep,Wrangler,Off-road vehicle,4,2,https://www.auto-data.net//images/f83/Jeep-Wrangler-IV-2-door-JL_1.jpg,233
+7698,7698,Ford,Mondeo,Station wagon,5,5,10.2 sec,https://www.auto-data.net//images/f115/Ford-Mondeo-II-Wagon_1.jpg,234
+15447,15447,Mitsubishi,Delica,Minivan,9,4,https://www.auto-data.net//images/f35/Mitsubishi-Delica_1.jpg,235
+36174,36174,Volkswagen,T-Roc,SUV,5,5,7.2 sec,https://www.auto-data.net//images/f61/Volkswagen-T-Roc_1.jpg,238
+13436,13436,Seat,Cordoba,Coupe,5,3,12.5 sec,https://www.auto-data.net//images/f98/Seat-Cordoba-Coupe-I.jpg,244
+1915,1915,Opel,Kadett,Hatchback,5,5,11.5 sec,https://www.auto-data.net//images/f89/Opel-Kadett-E-CC_1.jpg,245
+36711,36711,Ford,C-MAX,MPV,5,5,https://www.auto-data.net//images/f120/Ford-C-MAX_1.jpg,246
+11982,11982,Saab,900,Liftback,5,3-5,https://www.auto-data.net//images/f121/Saab-900-I-Combi-Coupe_1.jpg,247
+22458,22458,SsangYong,Korando,SUV,5,5,10.8 sec,https://www.auto-data.net//images/f76/SsangYong-Korando-III-C_1.jpg,248
+5318,5318,Peugeot,406,Station wagon,5,5,12.8 sec,https://www.auto-data.net//images/f96/Peugeot-406-Break-8_1.jpg,249
+39239,39239,BMW,X3,SAV,5,5,https://www.auto-data.net//images/f4/bmw-x3-g01_1.jpg,250
+6721,6721,Porsche,Cayenne,SUV,5,5,4.8 sec,https://www.auto-data.net//images/f31/Porsche-Cayenne-955-facelift-2007_1.jpg,254
+23640,23640,Dacia,Logan,Sedan,5,4,11 sec,https://www.auto-data.net//images/f106/Dacia-Logan-II_1.jpg,255
+14674,14674,Izh,2126,Hatchback,5,5,16 sec,https://www.auto-data.net//images/f5/big7385.jpg,256
+6333,6333,Vauxhall,Vectra,Sedan,4,4,11 sec,https://www.auto-data.net//images/f34/Vauxhall-Vectra-B.jpg,259
+24633,24633,Mitsubishi,Galant,Sedan,5,4,9.7 sec,https://www.auto-data.net//images/f105/Mitsubishi-Galant-VIII_1.jpg,260
+38231,38231,Ford,F-350 Super Duty,Pick-up,6,4,https://www.auto-data.net//images/f68/Ford-F-350-Super-Duty-IV-facelift-2020-Crew-Cab-Long-box_1.jpg,263
+42315,42315,Mercedes-Benz,G-class,Off-road vehicle,5,3,7.4 sec,https://www.auto-data.net//images/f42/Mercedes-Benz-G-class-W463_1.jpg,264
+17780,17780,BMW,X6,SUV,4-5,5,6.5 sec,https://www.auto-data.net//images/f70/BMW-X6-E71-facelift-2012_1.jpg,265
+42864,42864,Mercedes-Benz,W124,Coupe,4,2,8.2 sec,https://www.auto-data.net//images/f130/Mercedes-Benz-Coupe-C124_1.jpg,270
+30039,30039,Jeep,Compass,SUV,5,4,11 sec,https://www.auto-data.net//images/f76/Jeep-Compass-I_1.jpg,271
+42256,42256,Isuzu,D-Max,Pick-up,5,4,https://www.auto-data.net//images/f82/Isuzu-D-Max-III-Double-Cab_3.jpg,272
+28935,28935,Kia,Optima,Sedan,5,4,9.8 sec,https://www.auto-data.net//images/f82/Kia-Optima-III_1.jpg,275
+1494,1494,Alfa Romeo,156,Station wagon,5,5,6.3 sec,https://www.auto-data.net//images/f115/Alfa-Romeo-156-GTA-Sport-Wagon_1.jpg,276
+33390,33390,Chevrolet,Spark,Hatchback,4,5,https://www.auto-data.net//images/f16/chevrolet-spark-iv.jpg,277
+36592,36592,Tata,Altroz,Hatchback,5,5,https://www.auto-data.net//images/f124/Tata-Altroz_1.jpg,278
+9464,9464,Volvo,340-360,Hatchback,https://www.auto-data.net//images/f55/Volvo-340-360-343-345.jpg,282
+7430,7430,Ford,Escort,Sedan,https://www.auto-data.net//images/f78/Ford-Escort-VI-GAL_1.jpg,283
+7828,7828,Ford,Taunus,Sedan,https://www.auto-data.net//images/f102/Ford-Taunus-Coupe-GBCK.jpg,286
+48996,48996,ChangAn,CS95,SUV,7,5,https://www.auto-data.net//images/f70/ChangAn-CS95-facelift-2018_1.jpg,287
+51828,51828,Leapmotor,C10,SUV,5,5,7.29 sec,https://www.auto-data.net//images/f100/Leapmotor-C10_1.jpg,291
+34589,34589,BMW,X7,SUV,6-7,5,5.4 sec,https://www.auto-data.net//images/f13/BMW-X7-G07.jpg,293
+49028,49028,Renault,Arkana,"Coupe, SUV",5,5,9.8 sec,https://www.auto-data.net//images/f40/Renault-Arkana-facelift-2023_1.jpg,294
+8164,8164,Ford,Scorpio,Sedan,4,4,9.4 sec,https://www.auto-data.net//images/f74/Ford-Scorpio-I-Hatch-GGE_1.jpg,297
+45275,45275,Toyota,Verso,MPV,5,5,10.4 sec,https://www.auto-data.net//images/f117/Toyota-Verso_1.jpg,298
+49438,49438,Toyota,FJ Cruiser,"Off-road vehicle, SUV",5,5,https://www.auto-data.net//images/f124/Toyota-FJ-Cruiser_1.jpg,300
+44628,44628,BMW,New Class,Sedan,5,4,13.2 sec,https://www.auto-data.net//images/f87/BMW-New-Class_1.jpg,302
+43651,43651,Dodge,Durango,"SUV, MPV",5,4,https://www.auto-data.net//images/f94/Dodge-Durango-III-facelift-2021_1.jpg,303
+50019,50019,Kia,Cerato,Sedan,5,4,9.3 sec,https://www.auto-data.net//images/f111/Kia-Cerato-III-Sedan_1.jpg,306
+1584,1584,Oldsmobile,Cutlass,Station wagon,5,5,https://www.auto-data.net//images/f47/Oldsmobile-Cutlass-Ciera-Station-Wagon.jpg,307
+52584,52584,BYD,M6,MPV,7,5,https://www.auto-data.net//images/f103/BYD-M6-facelift-2013_1.jpg,308
+26277,26277,Audi,80,Sedan,5,4,16 sec,https://www.auto-data.net//images/f105/Audi-80-IV-B3-Typ-89-89Q-8A_1.jpg,310
+32244,32244,MG,ZS,SUV,5,5,12.4 sec,https://www.auto-data.net//images/f54/MG-ZS-2017_1.jpg,311
+51404,51404,Fiat,Scudo,Van,2-3,4-5,19.6 sec,https://www.auto-data.net//images/f99/Fiat-Scudo-III-507-Panel-Van_1.jpg,314
+1252,1252,Alfa Romeo,164,Sedan,5,4,https://www.auto-data.net//images/f119/Alfa-Romeo-164-164_1.jpg,315
+45744,45744,Citroen,Jumpy,Minivan,2-3,4,22.3 sec,https://www.auto-data.net//images/f116/Citroen-Jumpy-I_1.jpg,316
+37652,37652,Cadillac,Escalade,SUV,7,5,https://www.auto-data.net//images/f14/file8021981.jpg,317
+50784,50784,Infiniti,Q70,Sedan,5,4,https://www.auto-data.net//images/f54/Infiniti-Q70_1.jpg,318
+20305,20305,Renault,Kangoo,Minivan,7,5,13.3 sec,https://www.auto-data.net//images/f3/file8253437.jpg,320
+9339,9339,Volvo,240,Sedan,https://www.auto-data.net//images/f79/Volvo-240-P242-P244.jpg,322
+35242,35242,HSV,Clubsport,Sedan,5,4,4.9 sec,https://www.auto-data.net//images/f19/HSV-Clubsport-R8-VE-II.jpg,323
+9416,9416,Volvo,740,Station wagon,5,5,https://www.auto-data.net//images/f51/Volvo-740-Combi-745.jpg,327
+3583,3583,Toyota,Avensis,Sedan,5,4,9.4 sec,https://www.auto-data.net//images/f110/Toyota-Avensis-II_1.jpg,329
+25732,25732,Opel,Zafira,MPV,5,5,10.8 sec,https://www.auto-data.net//images/f4/opel-zafira-tourer-c-facelift-2016.jpg,330
+1515,1515,Alfa Romeo,GTV,Coupe,4,2,8.5 sec,https://www.auto-data.net//images/f76/Alfa-Romeo-GTV-916-facelift-2003_1.jpg,332
+2335,2335,Opel,Vectra,Hatchback,5,5,9.5 sec,https://www.auto-data.net//images/f22/file1494151.jpg,336
+38533,38533,Seat,Alhambra,"Minivan, MPV",7,5,11.4 sec,https://www.auto-data.net//images/f65/Seat-Alhambra-II-7N_1.jpg,338
+29951,29951,Acura,TLX,Sedan,5,4,8.2 sec,https://www.auto-data.net//images/f5/acura-tlx-i.jpg,339
+13165,13165,Mercedes-Benz,A-class,Hatchback,5,5,10.9 sec,https://www.auto-data.net//images/f102/Mercedes-Benz-A-class-W169_1.jpg,340
+14983,14983,Citroen,AMI,Station wagon,4,5,https://www.auto-data.net//images/f87/Citroen-AMI-8.jpg,341
+36159,36159,Volkswagen,Touran,Minivan,5-7,5,8.9 sec,https://www.auto-data.net//images/f14/file6385411.jpg,343
+50749,50749,Baojun,310,Hatchback,5,5,https://www.auto-data.net//images/f67/Baojun-310_1.jpg,344
+49446,49446,Chevrolet,Aveo,Hatchback,5,5,https://www.auto-data.net//images/f49/Chevrolet-Aveo-III-Hatchback_1.jpg,345
+42761,42761,Mitsubishi,Montero Sport,"Off-road vehicle, SUV",7,5,https://www.auto-data.net//images/f121/Mitsubishi-Montero-Sport-III_1.jpg,346
+33243,33243,Proton,Saga,Sedan,5,4,https://www.auto-data.net//images/f26/proton-saga-iii.jpg,347
+46565,46565,Citroen,Xsara,Station wagon,5,5,14.4 sec,https://www.auto-data.net//images/f8/big7608.jpg,348
+25158,25158,Nissan,Cedric,Sedan,5,4,12.6 sec,https://www.auto-data.net//images/f94/Nissan-Cedric-Y31.jpg,349
+30966,30966,Lincoln,Navigator,SUV,8,5,https://www.auto-data.net//images/f11/lincoln-navigator-iii-facelift-2015.jpg,354
+1552,1552,Alfa Romeo,75,Sedan,5,4,12.4 sec,https://www.auto-data.net//images/f78/Alfa-Romeo-75-162-B-facelift-1988_1.jpg,355
+50904,50904,Toyota,Tacoma,Pick-up,5,4,https://www.auto-data.net//images/f36/Toyota-Tacoma-IV-Double-Cab-Long_1.jpg,359
+27094,27094,Audi,Cabriolet,Cabriolet,4,2,11.4 sec,https://www.auto-data.net//images/f84/Audi-Cabriolet-B3-8G-facelift-1997_1.jpg,360
+37286,37286,Mitsubishi,ASX,"SUV, Crossover",5,5,12.2 sec,https://www.auto-data.net//images/f72/Mitsubishi-ASX-facelift-2019_1.jpg,362
+34619,34619,Nissan,Titan,Pick-up,5-6,4,https://www.auto-data.net//images/f110/Nissan-Titan-II-XD-Crew-Cab.jpg,363
+21565,21565,Mini,Convertible,Cabriolet,4,2,6.9 sec,https://www.auto-data.net//images/f7/file3006138.jpg,364
+22619,22619,Toyota,Auris,Station wagon,5,5,10.7 sec,https://www.auto-data.net//images/f76/Toyota-Auris-II-Touring-Sports-facelift-2015_1.jpg,369
+6059,6059,Pontiac,Phoenix,Sedan,https://www.auto-data.net//images/f80/Pontiac-Phoenix.jpg,371
+33650,33650,BMW,X4,SAC,5,5,4.8 sec,https://www.auto-data.net//images/f23/bmw-x4-g02.jpg,372
+28955,28955,Mitsubishi,Colt,Hatchback,5,3,12.5 sec,https://www.auto-data.net//images/f123/Mitsubishi-Colt-IV-CAO_1.jpg,373
+45735,45735,Lancia,Trevi,Sedan,5,4,10.4 sec,https://www.auto-data.net//images/f70/Lancia-Trevi-828_1.jpg,374
+38383,38383,Kia,Forte,Hatchback,5,5,https://www.auto-data.net//images/f72/Kia-Forte5-III_1.jpg,375
+12018,12018,Saab,95,Station wagon,7,3,https://www.auto-data.net//images/f121/Saab-95_1.jpg,377
+31994,31994,Ford,Ranger,Pick-up,4,2,12.5 sec,https://www.auto-data.net//images/f14/ford-ranger-ii-super-cab.jpg,379
+32469,32469,Peugeot,5008,SUV,7,5,9.2 sec,https://www.auto-data.net//images/f27/peugeot-5008-ii.jpg,380
+6595,6595,Porsche,911,Coupe,4,2,5 sec,https://www.auto-data.net//images/f55/Porsche-911-996-facelift-2001_3.jpg,382
+9096,9096,Volkswagen,Jetta,Sedan,5,4,12.9 sec,https://www.auto-data.net//images/f70/Volkswagen-Jetta-IV.jpg,384
+8807,8807,Volkswagen,Beetle,Hatchback,4,3,9 sec,https://www.auto-data.net//images/f94/Volkswagen-NEW-Beetle-9C_1.jpg,385
+31265,31265,Toyota,Tundra,Pick-up,5-6,4,https://www.auto-data.net//images/f20/toyota-tundra-ii-crewmax-facelift-2009.jpg,387
+39282,39282,Hyundai,i20,Hatchback,5,5,11.4 sec,https://www.auto-data.net//images/f77/Hyundai-i20-III_1.jpg,392
+18573,18573,Hyundai,i40,Station wagon,5,5,9.7 sec,https://www.auto-data.net//images/f127/Hyundai-i40-Combi_1.jpg,396
+29496,29496,Land Rover,Range Rover Velar,SUV,5,5,8.9 sec,https://www.auto-data.net//images/f18/land-rover-range-rover-velar.jpg,397
+935,935,Nissan,Serena,Minivan,8,5,13 sec,https://www.auto-data.net//images/f51/Nissan-Serena-C24_1.jpg,398
+48819,48819,Chevrolet,Onix,Hatchback,5,5,https://www.auto-data.net//images/f71/Chevrolet-Onix-I-facelift-2017_1.jpg,401
+7214,7214,Fiat,Marea,Station wagon,5,5,15.5 sec,https://www.auto-data.net//images/f79/Fiat-Marea-Weekend-185_1.jpg,403
+49307,49307,Volkswagen,Caravelle,Van,4-9,4-5,12.1 sec,https://www.auto-data.net//images/f58/Volkswagen-Caravelle-T5.1-facelift-2009_1.jpg,418
+11162,11162,Mazda,323,Sedan,5,4,9.8 sec,https://www.auto-data.net//images/f82/Mazda-323-S-V-BA_1.jpg,419
+12366,12366,Honda,NSX,Coupe,2,2,7.5 sec,https://www.auto-data.net//images/f120/Honda-NSX-Coupe-NA_1.jpg,420
+14392,14392,Chevrolet,Classic,Sedan,5,4,10 sec,https://www.auto-data.net//images/f81/Chevrolet-Classic.jpg,422
+5159,5159,Land Rover,Defender,Off-road vehicle,5-7,4,https://www.auto-data.net//images/f8/big2508.jpg,425
+48472,48472,Subaru,Crosstrek,"SUV, Crossover",5,5,https://www.auto-data.net//images/f48/Subaru-XV-Crosstrek-I_1.jpg,426
+1308,1308,Alfa Romeo,147,Hatchback,5,3,12.1 sec,https://www.auto-data.net//images/f76/Alfa-Romeo-147-3-doors_1.jpg,427
+12486,12486,Caterham,Seven,Cabriolet,2,2,5.8 sec,https://www.auto-data.net//images/f104/Caterham-Super.jpg,428
+4098,4098,Audi,100,Sedan,5,4,12 sec,https://www.auto-data.net//images/f56/Audi-100-C3-Typ-44-44Q_1.jpg,429
+37188,37188,Mercedes-Benz,R-class,Station wagon,5,5,9.7 sec,https://www.auto-data.net//images/f6/Mercedes-Benz-R-class-W251-Long.jpg,430
+45907,45907,MG,MG6,Liftback,5,5,https://www.auto-data.net//images/f93/MG-MG6-II-facelift-2021_1.jpg,432
+22278,22278,Opel,Movano,Minivan,3,5,https://www.auto-data.net//images/f14/file5661767.jpg,435
+21788,21788,Volvo,V70,Station wagon,5,5,7.8 sec,https://www.auto-data.net//images/f20/file6529830.jpg,442
+1057,1057,Acura,RSX,Coupe,4,2,6.2 sec,https://www.auto-data.net//images/f40/Acura-RSX_1.jpg,443
+4970,4970,Lancia,Ypsilon,Hatchback,5,3,16.8 sec,https://www.auto-data.net//images/f97/Lancia-Ypsilon-843_1.jpg,444
+46340,46340,XPENG,P5,"Sedan, Fastback",5,4,7.5 sec,https://www.auto-data.net//images/f51/XPENG-P5_1.jpg,446
+21633,21633,Mini,Countryman,SUV,5,5,9.4 sec,https://www.auto-data.net//images/f17/file9151689.jpg,447
+31190,31190,Toyota,Camry,Sedan,5,4,https://www.auto-data.net//images/f6/toyota-camry-vi-facelift-2010.jpg,448
+13654,13654,GAZ,31,Sedan,5,4,19 sec,https://www.auto-data.net//images/f9/big6539.jpg,450
+4903,4903,Audi,Quattro,Coupe,5,3,6.5 sec,https://www.auto-data.net//images/f84/Audi-Quattro-Typ-85_1.jpg,451
+9145,9145,Volkswagen,Phaeton,Sedan,5,4,8.8 sec,https://www.auto-data.net//images/f123/Volkswagen-Phaeton_1.jpg,452
+10956,10956,Buick,Century,Station wagon,5,5,https://www.auto-data.net//images/f103/Buick-Century.jpg,454
+42676,42676,Honda,HR-V,"SUV, Crossover",5,5,https://www.auto-data.net//images/f34/Honda-HR-V-II-facelift-2018_1.jpg,455
+5489,5489,Peugeot,304,Station wagon,https://www.auto-data.net//images/f46/Peugeot-304-Break_1.jpg,458
+42903,42903,Mercedes-Benz,/8,Sedan,5,4,13.9 sec,https://www.auto-data.net//images/f40/Mercedes-Benz-8-W114_1.jpg,459
+42320,42320,Porsche,Panamera,Liftback,4,5,3.2 sec,https://www.auto-data.net//images/f53/Porsche-Panamera-G2-II_1.jpg,462
+9875,9875,BMW,M5,Sedan,5,4,5.3 sec,https://www.auto-data.net//images/f129/BMW-M5-E39_1.jpg,464
+20991,20991,BMW,4 Series,Coupe,4,2,7.3 sec,https://www.auto-data.net//images/f38/BMW-4-Series-Coupe-F32_1.jpg,470
+19824,19824,Ford,Focus,Station wagon,5,5,8.8 sec,https://www.auto-data.net//images/f57/Ford-Focus-III-Wagon_1.jpg,475
+6452,6452,Vauxhall,Cavalier,Sedan,5,4,7.8 sec,https://www.auto-data.net//images/f123/Vauxhall-Cavalier-Mk-III.jpg,488
+50528,50528,Fiat,Topolino,Quadricycle,2,2,https://www.auto-data.net//images/f121/Fiat-Topolino_1.jpg,489
+21297,21297,Lotus,Elise,Roadster,2,2,4.6 sec,https://www.auto-data.net//images/f3/file4782029.jpg,490
+41700,41700,Volkswagen,ID.3,Hatchback,5,5,9.6 sec,https://www.auto-data.net//images/f58/Volkswagen-ID.3_1.jpg,492
+17023,17023,Fiat,Punto,Hatchback,5,3-5,13.2 sec,https://www.auto-data.net//images/f63/Fiat-Grande-Punto-199_1.jpg,493
+34415,34415,Proton,Perdana,Sedan,5,4,https://www.auto-data.net//images/f12/Proton-Perdana-II-facelift-2016.jpg,494
+48652,48652,Sportequipe,7,SUV,7,5,https://www.auto-data.net//images/f125/Sportequipe-7_1.jpg,497
+12707,12707,Mercedes-Benz,CL,Coupe,4,2,5.4 sec,https://www.auto-data.net//images/f66/Mercedes-Benz-CL-C216_1.jpg,499
+29501,29501,Nissan,Micra,Hatchback,5,3/5,13.7 sec,https://www.auto-data.net//images/f76/Nissan-Micra-K11_1.jpg,500
+31711,31711,Mitsubishi,FTO,Coupe,2,2,https://www.auto-data.net//images/f89/Mitsubishi-FTO-E-DE3A_1.jpg,501
+28824,28824,Kia,Picanto,Hatchback,5,5,15.4 sec,https://www.auto-data.net//images/f115/Kia-Picanto_1.jpg,502
+33155,33155,Haima,S5 Young,SUV,5,5,https://www.auto-data.net//images/f73/Haima-S5-Young.jpg,503
+11716,11716,Cadillac,Brougham,Sedan,5,4,12 sec,https://www.auto-data.net//images/f39/Cadillac-Brougham_1.jpg,504
+25568,25568,Vauxhall,Corsa,Hatchback,5,5,10.3 sec,https://www.auto-data.net//images/f4/Vauxhall-Corsa-E_1.jpg,505
+29467,29467,Rover,800,Coupe,5,2,12.4 sec,https://www.auto-data.net//images/f37/Rover-800-Coupe.jpg,506
+16340,16340,Daewoo,Espero,Sedan,5,4,12.8 sec,https://www.auto-data.net//images/f90/Daewoo-Espero-KLEJ_1.jpg,507
+801,801,Nissan,Fuga,Sedan,5,4,https://www.auto-data.net//images/f98/Nissan-Fuga-I-Y50-facelift-2007_1.jpg,514
+286,286,Nissan,Patrol,Off-road vehicle,7,5,https://www.auto-data.net//images/f32/Nissan-Patrol-GR-Y61_1.jpg,515
+37698,37698,Kia,XCeed,"SUV, Crossover",5,5,11 sec,https://www.auto-data.net//images/f67/Kia-XCeed_3.jpg,519
+51703,51703,Audi,Q7,SUV,5,5,5 sec,https://www.auto-data.net//images/f55/Audi-Q7-Typ-4M-facelift-2024_1.jpg,520
+39422,39422,McLaren,625C,Cabriolet,2,2,3.3 sec,https://www.auto-data.net//images/f130/McLaren-625C-Spider_1.jpg,528
+21894,21894,Jaguar,F-type,Cabriolet,2,2,5.7 sec,https://www.auto-data.net//images/f56/Jaguar-F-type-Convertible_1.jpg,529
+28411,28411,BMW,6 Series,Coupe,4,4,5.3 sec,https://www.auto-data.net//images/f79/BMW-6-Series-Gran-Coupe-F06_1.jpg,532
+2804,2804,Aro,24,Off-road vehicle,5,5,https://www.auto-data.net//images/f4/big1314.jpg,533
+52528,52528,Audi,RS 3,Sedan,5,4,3.8 sec,https://www.auto-data.net//images/f63/Audi-RS-3-Sedan-8Y-facelift-2024_3.jpg,534
+33112,33112,Buick,Envision,SUV,5,5,https://www.auto-data.net//images/f7/buick-envision-facelift-2018.jpg,537
+13258,13258,Lada,2102,Station wagon,5,5,20 sec,https://www.auto-data.net//images/f9/big6239.jpg,538
+14398,14398,Chevrolet,Impala,Sedan,5,4,7 sec,https://www.auto-data.net//images/f114/Chevrolet-Impala-VIII-W_1.jpg,540
+25114,25114,Hyundai,i30,Station wagon,5,5,13 sec,https://www.auto-data.net//images/f9/file1727306.jpg,541
+738,738,Nissan,Almera,Minivan,5,5,12.7 sec,https://www.auto-data.net//images/f130/Nissan-Almera-Tino_1.jpg,543
+18055,18055,Ford,Kuga,SUV,5,5,10.4 sec,https://www.auto-data.net//images/f64/Ford-Kuga-I-facelift-2010.jpg,544
+5351,5351,Peugeot,207,Hatchback,5,3-5,15.6 sec,https://www.auto-data.net//images/f110/Peugeot-207_1.jpg,548
+39236,39236,Mitsubishi,Outlander,"SUV, Crossover",5,5,11 sec,https://www.auto-data.net//images/f104/Mitsubishi-Outlander-III_1.jpg,549
+42423,42423,Abarth,500,Hatchback,4,3,7.9 sec,https://www.auto-data.net//images/f69/Abarth-500_1.jpg,550
+15913,15913,Isuzu,Ascender,SUV,7,5,https://www.auto-data.net//images/f65/Isuzu-Ascender_1.jpg,551
+32794,32794,Peugeot,Partner,Minivan,5,5,19.5 sec,https://www.auto-data.net//images/f43/Peugeot-Partner-II-Tepee-Phase-III-2015_1.jpg,553
+47717,47717,GMC,Sierra 3500HD,Pick-up,5,4,https://www.auto-data.net//images/f85/GMC-Sierra-3500HD-V-GMTT1XX-facelift-2024-Crew-Cab-Long-Bed_1.jpg,558
+11972,11972,Saab,9-7X,SUV,5,5,7.5 sec,https://www.auto-data.net//images/f91/Saab-9-7X_1.jpg,560
+3900,3900,Toyota,MR 2,Targa,2,2,9.5 sec,https://www.auto-data.net//images/f128/Toyota-MR-2-_W2.jpg,561
+29787,29787,Jaguar,XE,Sedan,5,4,6.3 sec,https://www.auto-data.net//images/f65/Jaguar-XE-X760_1.jpg,566
+25969,25969,Opel,Manta,Coupe,4,2,15.5 sec,https://www.auto-data.net//images/f89/Opel-Manta-B-facelift-1982.jpg,567
+24347,24347,Volvo,C30,Coupe,4,3,7.1 sec,https://www.auto-data.net//images/f85/Volvo-C30_1.jpg,571
+25835,25835,Opel,Combo,Minivan,5,5,14 sec,https://www.auto-data.net//images/f55/Opel-Combo-Tour-C-facelift-2003.jpg,572
+5253,5253,Peugeot,206,Hatchback,5,3-5,15.1 sec,https://www.auto-data.net//images/f103/Peugeot-206_1.jpg,573
+5824,5824,TVR,Cerbera,Coupe,4,2,https://www.auto-data.net//images/f9/big2759.jpg,574
+47874,47874,Hyundai,Santa Fe,SUV,5,5,12.4 sec,https://www.auto-data.net//images/f59/Hyundai-Santa-Fe-II_1.jpg,575
+42550,42550,Bentley,Continental,Coupe,4,2,3.6 sec,https://www.auto-data.net//images/f48/Bentley-Continental-GT-III_3.jpg,577
+33385,33385,Mitsubishi,Pajero Sport,SUV,7,5,https://www.auto-data.net//images/f98/Mitsubishi-Pajero-Sport-III-facelift-2019.jpg,578
+1292,1292,Alfa Romeo,90,Sedan,5,4,https://www.auto-data.net//images/f52/Alfa-Romeo-90-162_1.jpg,579
+20513,20513,Volkswagen,Caddy,Minivan,5-7,5,13.7 sec,https://www.auto-data.net//images/f85/Volkswagen-Caddy-III-facelift-2010_1.jpg,580
+50218,50218,Nissan,Note,Crossover,5,5,https://www.auto-data.net//images/f75/Nissan-Note-III-E13-Autech-Crossover_1.jpg,583
+15346,15346,Mitsubishi,3000 GT,Coupe,4,2,5 sec,https://www.auto-data.net//images/f127/Mitsubishi-3000-GT-Z16A_1.jpg,588
+34931,34931,Dacia,Duster,SUV,5,5,12.1 sec,https://www.auto-data.net//images/f19/dacia-duster-ii_1.jpg,591
+21551,21551,Mini,Hatch,Hatchback,5,5,9.4 sec,https://www.auto-data.net//images/f27/file5962546.jpg,592
+14582,14582,Chevrolet,Metro,Sedan,4,4,https://www.auto-data.net//images/f72/Chevrolet-Metro-Sedan-MR226_1.jpg,594
+20396,20396,Volkswagen,Touareg,SUV,5,5,8.7 sec,https://www.auto-data.net//images/f120/Volkswagen-Touareg-II-7P-facelift-2014_1.jpg,595
+7921,7921,Ford,Taurus,Sedan,5,4,https://www.auto-data.net//images/f38/Ford-Taurus-V_1.jpg,600
+14540,14540,Chevrolet,Malibu,Sedan,5,4,https://www.auto-data.net//images/f3/big7253.jpg,601
+22622,22622,Mercedes-Benz,SLC,"Coupe - Cabriolet, Roadster",2,2,6.6 sec,https://www.auto-data.net//images/f15/file1858362.jpg,605
+34085,34085,Lexus,UX,SUV,5,5,9.2 sec,https://www.auto-data.net//images/f104/Lexus-UX_1.jpg,609
+52346,52346,Pagani,Utopia,Roadster,2,2,https://www.auto-data.net//images/f103/Pagani-Utopia-Roadster_1.jpg,611
+24943,24943,Chevrolet,Colorado,Pick-up,5,4,https://www.auto-data.net//images/f70/Chevrolet-Colorado_1.jpg,614
+43486,43486,Mercedes-Benz,W108,Sedan,5,4,12.5 sec,https://www.auto-data.net//images/f62/Mercedes-Benz-S-class-W108_1.jpg,616
+32420,32420,Volkswagen,Up!,Hatchback,4,4,10.8 sec,https://www.auto-data.net//images/f24/volkswagen-cross-up-facelift-2016.jpg,618
+29347,29347,Hyundai,Accent,Hatchback,5,3/5,10.5 sec,https://www.auto-data.net//images/f70/Hyundai-Accent-Hatchback-II_1.jpg,619
+24691,24691,Hyundai,Genesis,Coupe,4,2,7.4 sec,https://www.auto-data.net//images/f34/Hyundai-Genesis-Coupe-facelift-2012_1.jpg,620
+44714,44714,Mercedes-Benz,W112,Coupe,5,2,11.5 sec,https://www.auto-data.net//images/f86/Mercedes-Benz-W112-Coupe_1.jpg,621
+32171,32171,Aston Martin,V8 Vantage,Coupe,2,2,3.6 sec,https://www.auto-data.net//images/f82/Aston-Martin-V8-Vantage-2018_1.jpg,622
+41260,41260,Rolls-Royce,Ghost,Sedan,5,4,4.8 sec,https://www.auto-data.net//images/f112/Rolls-Royce-Ghost-II_1.jpg,624
+18679,18679,Alfa Romeo,Giulietta,Hatchback,5,5,10.6 sec,https://www.auto-data.net//images/f38/Alfa-Romeo-Giulietta-Type-940_1.jpg,626
+49223,49223,Rover,75,Station wagon,5,5,https://www.auto-data.net//images/f54/Rover-75-Tourer-facelift-2004_1.jpg,627
+24137,24137,Toyota,Hilux,Pick-up,2,3,13.2 sec,https://www.auto-data.net//images/f125/Toyota-Hilux-Extra-Cab-VIII_1.jpg,628
+37892,37892,Kia,Soul,Crossover,5,5,9.9 sec,https://www.auto-data.net//images/f127/Kia-Soul-III_1.jpg,629
+45448,45448,Cupra,Leon,Hatchback,5,5,7.5 sec,https://www.auto-data.net//images/f81/Cupra-Leon_1.jpg,630
+26834,26834,Opel,Signum,Hatchback,5,5,9.4 sec,https://www.auto-data.net//images/f15/file7496289.jpg,631
+31701,31701,Daewoo,Nubira,Sedan,5,4,9.5 sec,https://www.auto-data.net//images/f104/Daewoo-Nubira-III_1.jpg,633
+37158,37158,Skoda,Superb,Liftback,5,5,7.7 sec,https://www.auto-data.net//images/f3/Skoda-Superb-III-facelift-2019.jpg,635
+3177,3177,Toyota,Celsior,Sedan,5,4,https://www.auto-data.net//images/f118/Toyota-Celsior-II_1.jpg,636
+44874,44874,Mercedes-Benz,SL,Coupe,2,2,10.6 sec,https://www.auto-data.net//images/f33/Mercedes-Benz-W113-Roadster_1.jpg,637
+19597,19597,Opel,Meriva,MPV,5,5,13.8 sec,https://www.auto-data.net//images/f64/Opel-Meriva-B-facelift-2014_1.jpg,639
+1634,1634,Alpina,B10,Sedan,https://www.auto-data.net//images/f115/Alpina-B10-E34_1.jpg,648
+32841,32841,RUF,SCR,Coupe,2,2,https://www.auto-data.net//images/f73/RUF-SCR_1.jpg,651
+2665,2665,Kia,Sorento,SUV,5,5,10.2 sec,https://www.auto-data.net//images/f108/Kia-Sorento-I_1.jpg,654
+5446,5446,Peugeot,309,Hatchback,https://www.auto-data.net//images/f77/Peugeot-309-I-10C-10A_1.jpg,657
+10930,10930,Maserati,Spyder,Cabriolet,2,2,5 sec,https://www.auto-data.net//images/f61/Maserati-Spyder_3.jpg,659
+28924,28924,Kia,Magentis,Sedan,5,4,https://www.auto-data.net//images/f42/Kia-Magentis-II-facelift-2008_1.jpg,663
+43515,43515,Mercedes-Benz,GLK,SUV,5,5,6.5 sec,https://www.auto-data.net//images/f130/Mercedes-Benz-GLK_1.jpg,664
+8035,8035,Ford,Fiesta,Hatchback,5,5,9.9 sec,https://www.auto-data.net//images/f118/Ford-Fiesta-VII-Mk7_1.jpg,666
+12281,12281,Honda,Civic,Station wagon,https://www.auto-data.net//images/f48/Honda-Civic-IV-Shuttle_1.jpg,669
+13371,13371,Mercury,Topaz,Sedan,5,2,https://www.auto-data.net//images/f8/big6358.jpg,670
+33598,33598,Koenigsegg,CC,Targa,2,2,3.2 sec,https://www.auto-data.net//images/f117/Koenigsegg-CCX_1.jpg,671
+6038,6038,Pontiac,Vibe,Station wagon,5,5,10 sec,https://www.auto-data.net//images/f4/big2924.jpg,675
+27510,27510,Citroen,C3,Hatchback,5,5,9.7 sec,https://www.auto-data.net//images/f25/file2712106.jpg,678
+25859,25859,Opel,Commodore,Sedan,5,2-4,13 sec,https://www.auto-data.net//images/f107/Opel-Commodore-C_1.jpg,679
+21324,21324,Lexus,GS,Sedan,5,4,5.9 sec,https://www.auto-data.net//images/f17/file4205893.jpg,680
+16761,16761,Fiat,Bravo,Hatchback,5,5,10.5 sec,https://www.auto-data.net//images/f91/Fiat-Bravo-II_1.jpg,681
+3187,3187,Toyota,Hiace,Minivan,8,4,https://www.auto-data.net//images/f61/Toyota-Hiace.jpg,686
+34950,34950,Chevrolet,Orlando,MPV,7,5,https://www.auto-data.net//images/f114/Chevrolet-Orlando-II_1.jpg,698
+8131,8131,Ford,Flex,SUV,6-7,5,8.8 sec,https://www.auto-data.net//images/f79/Ford-Flex_1.jpg,701
+11837,11837,McLaren,F1,Coupe,3,2,https://www.auto-data.net//images/f84/McLaren-F1_1.jpg,703
+1570,1570,Dallas,Fun,Off-road vehicle,2,2,15 sec,https://www.auto-data.net//images/f3/big833.jpg,704
+6815,6815,Fiat,Croma,Hatchback,https://www.auto-data.net//images/f71/Fiat-Croma-154_1.jpg,705
+30390,30390,Perodua,Myvi,Hatchback,5,5,https://www.auto-data.net//images/f13/perodua-myvi-ii.jpg,710
+33267,33267,BMW,X5,SAV,5,5,5.2 sec,https://www.auto-data.net//images/f5/bmw-x5-g05_1.jpg,711
+7900,7900,Ford,Orion,Sedan,https://www.auto-data.net//images/f70/Ford-Orion-III-GAL.jpg,713
+11497,11497,Rover,100,Hatchback,5,3-5,14.8 sec,https://www.auto-data.net//images/f64/Rover-100-METRO-XP.jpg,714
+34870,34870,Land Rover,Range Rover Evoque,SUV,5,5,6.6 sec,https://www.auto-data.net//images/f48/Land-Rover-Range-Rover-Evoque-II_1.jpg,715
+14867,14867,Smart,Fortwo,Cabriolet,2,2,https://www.auto-data.net//images/f9/big7499.jpg,717
+31609,31609,Toyota,Crown,Sedan,5,4,https://www.auto-data.net//images/f6/toyota-crown-athlete-xiv-s210.jpg,719
+7766,7766,Ford,Fusion,Hatchback,5,5,15.5 sec,https://www.auto-data.net//images/f16/ford-fusion.jpg,723
+11559,11559,Rover,200,Hatchback,5,3-5,9.9 sec,https://www.auto-data.net//images/f126/Rover-200-RF.jpg,724
+33477,33477,Mazda,CX-3,SUV,5,5,10.5 sec,https://www.auto-data.net//images/f5/Mazda-CX-3-facelift-2018.jpg,725
+51127,51127,Exeed,Yaoguang,SUV,5,5,https://www.auto-data.net//images/f70/Exeed-RX-Yaoguang_1.jpg,727
+24189,24189,Aston Martin,DB9,Coupe,4,2,5.1 sec,https://www.auto-data.net//images/f7/file9201745.jpg,728
+20252,20252,Renault,Laguna,Station wagon,5,5,9.3 sec,https://www.auto-data.net//images/f70/Renault-Laguna-III-Grandtour-Phase-II_1.jpg,729
+43497,43497,Mercedes-Benz,W109,Sedan,5,4,11.2 sec,https://www.auto-data.net//images/f55/Mercedes-Benz-S-class-SEL-W109_1.jpg,735
+32788,32788,Volvo,XC40,SUV,5,5,9.4 sec,https://www.auto-data.net//images/f10/volvo-xc40_1.jpg,738
+5969,5969,Pontiac,GTO,Coupe,4,2,https://www.auto-data.net//images/f66/Pontiac-GTO_1.jpg,739
+10391,10391,Renault,21,Station wagon,5,5,10.7 sec,https://www.auto-data.net//images/f78/Renault-21-Combi-K48.jpg,740
+39291,39291,Baojun,RS-3,"SUV, Crossover",5,5,https://www.auto-data.net//images/f37/Baojun-RS-3_1.jpg,742
+11913,11913,Saab,9-3,Sedan,5,4,10.7 sec,https://www.auto-data.net//images/f47/Saab-9-3-Sedan-II-E_1.jpg,743
+45247,45247,Audi,Q5,SUV,5,5,6.1 sec,https://www.auto-data.net//images/f111/Audi-Q5-Sportback_1.jpg,744
+11073,11073,Mazda,5,Minivan,7,5,10.8 sec,https://www.auto-data.net//images/f117/Mazda-5-I_1.jpg,749
+14555,14555,Chevrolet,Venture,Minivan,7,4,https://www.auto-data.net//images/f87/Chevrolet-Venture-U_1.jpg,750
+7868,7868,Ford,Explorer,SUV,5,3,https://www.auto-data.net//images/f67/Ford-Explorer-II_1.jpg,756
+3460,3460,Toyota,Aurion,Sedan,5,4,https://www.auto-data.net//images/f45/Toyota-Aurion.jpg,758
+50508,50508,Voyah,Dreamer,MPV,4-7,5,https://www.auto-data.net//images/f86/Voyah-Dreamer_1.jpg,759
+52391,52391,Ford,Tourneo Custom,Van,8-9,4-5,https://www.auto-data.net//images/f83/Ford-Tourneo-Custom-II-L1_1.jpg,766
+51052,51052,Cadillac,CT4,Sedan,5,4,https://www.auto-data.net//images/f128/Cadillac-CT4.jpg,767
+16155,16155,Subaru,Vivio,Hatchback,5,3-5,https://www.auto-data.net//images/f115/Subaru-Vivio_1.jpg,769
+33467,33467,Chevrolet,Tahoe,SUV,9,5,https://www.auto-data.net//images/f67/Chevrolet-Tahoe-GMT900_1.jpg,771
+52631,52631,Nissan,Kicks,"SUV, Crossover",5,5,https://www.auto-data.net//images/f107/Nissan-Kicks-P16-USA_3.jpg,775
+15061,15061,Citroen,AX,Hatchback,5,3,8.8 sec,https://www.auto-data.net//images/f79/Citroen-AX.jpg,777
+2186,2186,Opel,Rekord,Station wagon,5,3-5,13 sec,https://www.auto-data.net//images/f5/file563946.jpg,785
+15813,15813,Mitsubishi,Sapporo,Coupe,5,2,https://www.auto-data.net//images/f64/Mitsubishi-Sapporo-I-A12.jpg,796
+50055,50055,Mercedes-Benz,GLB,SUV,5-7,5,7.8 sec,https://www.auto-data.net//images/f99/Mercedes-Benz-GLB-X247-facelift-2023_1.jpg,799
+43581,43581,Rimac,Nevera,Coupe,2,2,1.97 sec,https://www.auto-data.net//images/f58/Rimac-Nevera_1.jpg,801
+22771,22771,Lamborghini,Huracan,Coupe,2,2,https://www.auto-data.net//images/f14/file4948745.jpg,807
+51523,51523,Citroen,C3 Aircross,"SUV, Crossover",7,5,https://www.auto-data.net//images/f51/Citroen-C3-Aircross-II-Phase-I-CC24_1.jpg,810
+22950,22950,Land Rover,Freelander,SUV,5,5,11.7 sec,https://www.auto-data.net//images/f6/file9243865.jpg,813
+43763,43763,Skoda,Kodiaq,SUV,5,5,https://www.auto-data.net//images/f86/Skoda-Kodiaq-facelift-2021_1.jpg,814
+1970,1970,Opel,Omega,Station wagon,5,5,9.5 sec,https://www.auto-data.net//images/f2/file3550501.jpg,816
+42925,42925,Mercedes-Benz,W123,Station wagon,5,5,10.2 sec,https://www.auto-data.net//images/f110/Mercedes-Benz-T-mod.S123_1.jpg,818
+51415,51415,Toyota,RAV4,SUV,5,5,https://www.auto-data.net//images/f66/Toyota-RAV4-V-facelift-2021_1.jpg,819
+15792,15792,Mitsubishi,Town BOX,Minivan,4,5,https://www.auto-data.net//images/f102/Mitsubishi-Town-Box.jpg,827
+40853,40853,Volvo,V90,Station wagon,5,5,8.5 sec,https://www.auto-data.net//images/f41/Volvo-V90-Combi-facelift-2020_1.jpg,829
+51501,51501,Lynk & Co,03,Sedan,5,4,4.89 sec,https://www.auto-data.net//images/f88/Lynk-Co-03-facelift-2022_1.jpg,831
+332,332,Nissan,Cherry,Hatchback,https://www.auto-data.net//images/f90/Nissan-Cherry-Hatchback-N10.jpg,834
+49577,49577,Nissan,X-Trail,SUV,5,5,11.1 sec,https://www.auto-data.net//images/f22/file563864.jpg,835
+46999,46999,Nissan,Sentra,Sedan,5,4,https://www.auto-data.net//images/f35/Nissan-Sentra-VII-B17_1.jpg,845
+15801,15801,Mitsubishi,Minica,Hatchback,5,3/5,https://www.auto-data.net//images/f0/big8010.jpg,848
+48897,48897,Honda,N-One,Hatchback,4,5,https://www.auto-data.net//images/f93/Honda-N-One-II_1.jpg,851
+14855,14855,Smart,Crossblade,Cabriolet,2,2,16.8 sec,https://www.auto-data.net//images/f42/Smart-Crossblade_1.jpg,852
+228,228,Jaguar,XJS,Coupe,https://www.auto-data.net//images/f71/Jaguar-XJS-Coupe_1.jpg,858
+24348,24348,Volvo,V40,Station wagon,5,5,9.3 sec,https://www.auto-data.net//images/f67/Volvo-V40-Combi-VW_1.jpg,862
+4036,4036,Toyota,Carina,Station wagon,5,5,https://www.auto-data.net//images/f36/Toyota-Carina-Wagon-TA4K.jpg,863
+6559,6559,Ferrari,550,Cabriolet,2,2,4.4 sec,https://www.auto-data.net//images/f77/Ferrari-550-Barchetta-Pininfarina_1.jpg,864
+47315,47315,Polestar,2,Fastback,5,5,https://www.auto-data.net//images/f34/Polestar-2-facelift-2023_1.jpg,866
+48906,48906,Chery,Arrizo GX,Sedan,5,4,https://www.auto-data.net//images/f48/Chery-Arrizo-GX_1.jpg,867
+4920,4920,Lancia,Lybra,Sedan,5,4,11.3 sec,https://www.auto-data.net//images/f126/Lancia-Lybra-839_1.jpg,869
+3444,3444,Toyota,Aristo,Sedan,5,4,https://www.auto-data.net//images/f48/Toyota-Aristo-S14.jpg,870
+2619,2619,Alpine,A610,Coupe,4,2,5.7 sec,https://www.auto-data.net//images/f31/Alpine-A610.jpg,876
+38577,38577,Ford,S-MAX,MPV,7,5,10.8 sec,https://www.auto-data.net//images/f22/file7853152.jpg,879
+28616,28616,Toyota,Innova,MPV,6,5,https://www.auto-data.net//images/f71/Toyota-Innova_1.jpg,882
+35068,35068,Mercedes-Benz,AMG GT,Roadster,2,2,3.8 sec,https://www.auto-data.net//images/f25/file5708615.jpg,887
+26399,26399,Suzuki,SX4 S-Cross,Crossover,5,5,11 sec,https://www.auto-data.net//images/f96/Suzuki-SX4-II-S-Cross-Facelift-2016_1.jpg,890
+46118,46118,Toyota,Fortuner,SUV,7,5,https://www.auto-data.net//images/f82/Toyota-Fortuner-II-facelift-2020_1.jpg,894
+3678,3678,Toyota,Land Cruiser Prado,SUV,7,5,https://www.auto-data.net//images/f67/Toyota-Land-Cruiser-Prado-J150_1.jpg,898
+24401,24401,Lexus,LX,SUV,5,5,8.6 sec,https://www.auto-data.net//images/f26/file2064889.jpg,908
+1364,1364,Alfa Romeo,155,Sedan,5,4,10.3 sec,https://www.auto-data.net//images/f103/Alfa-Romeo-155-167_1.jpg,909
+14645,14645,Chevrolet,Suburban,SUV,5,https://www.auto-data.net//images/f88/Chevrolet-Suburban-C-K_1.jpg,911
+46945,46945,Jeep,Liberty,SUV,5,5,https://www.auto-data.net//images/f92/Jeep-Liberty-I-facelift-2005_1.jpg,918
+6693,6693,Porsche,Cayman,Coupe,2,2,5.4 sec,https://www.auto-data.net//images/f36/Porsche-Cayman-987c_1.jpg,919
+46819,46819,Audi,Q8 e-tron,SUV,5,5,5.6 sec,https://www.auto-data.net//images/f118/Audi-Q8-e-tron_3.jpg,921
+45167,45167,Infiniti,M,Sedan,5,4,https://www.auto-data.net//images/f66/Infiniti-M-IV-Y51_1.jpg,925
+11475,11475,Mazda,Demio,Hatchback,5,5,13 sec,https://www.auto-data.net//images/f67/Mazda-Demio-DW_1.jpg,940
+37111,37111,Renault,Vel Satis,Hatchback,5,5,10.3 sec,https://www.auto-data.net//images/f49/Renault-Vel-Satis_1.jpg,945
+28899,28899,Volvo,850,Sedan,5,4,11.1 sec,https://www.auto-data.net//images/f114/Volvo-850-LS_1.jpg,949
+14466,14466,Chevrolet,Corsa,Hatchback,5,3/5,9.9 sec,https://www.auto-data.net//images/f39/Chevrolet-Corsa-Hatch-GM-4200.jpg,950
+41025,41025,Ferrari,599,Coupe,2,2,3.7 sec,https://www.auto-data.net//images/f95/Ferrari-599-GTB-Fiorano_1.jpg,951
+17527,17527,Peugeot,208,Hatchback,5,3-5,10.5 sec,https://www.auto-data.net//images/f3/file943941.jpg,952
+36168,36168,Alfa Romeo,Stelvio,SUV,5,5,7.6 sec,https://www.auto-data.net//images/f28/alfa-romeo-stelvio_1.jpg,954
+15212,15212,Citroen,ZX,Hatchback,5,5,11.8 sec,https://www.auto-data.net//images/f55/Citroen-ZX-N2_1.jpg,955
+8345,8345,Volkswagen,Derby,Sedan,5,2,https://www.auto-data.net//images/f98/Volkswagen-Derby-86_1.jpg,956
+17784,17784,BMW,X1,SUV,5,5,7.8 sec,https://www.auto-data.net//images/f57/BMW-X1-E84-Facelift-2012_1.jpg,964
+5759,5759,Triumph,Dolomite,Sedan,https://www.auto-data.net//images/f74/Triumph-Dolomite.jpg,966
+16151,16151,Subaru,Outback,Station wagon,5,5,https://www.auto-data.net//images/f126/Subaru-Outback-I.jpg,968
+39880,39880,DeSoto,Fireflite,Coupe,6,2,https://www.auto-data.net//images/f84/DeSoto-Two-Door-HardTop_1.jpg,970
+50772,50772,SsangYong,Rexton,SUV,5-7,5,https://www.auto-data.net//images/f121/SsangYong-Rexton-I-facelift-2012_1.jpg,972
+23320,23320,Volkswagen,Passat CC,Coupe,4,4,8.1 sec,https://www.auto-data.net//images/f24/file2775520.jpg,978
+2074,2074,Opel,Ascona,Station wagon,5,3,21 sec,https://www.auto-data.net//images/f2/big1042.jpg,982
+31721,31721,Mazda,6,Hatchback,5,5,10.6 sec,https://www.auto-data.net//images/f1/mazda-6-i-hatchback-gg.jpg,984
+11406,11406,Mazda,Clef,Sedan,5,4,https://www.auto-data.net//images/f1/big5221.jpg,986
+2023,2023,Opel,Tigra,Coupe,4,2,11 sec,https://www.auto-data.net//images/f105/Opel-Tigra-A_1.jpg,988
+16498,16498,Suzuki,Wagon R+,Minivan,5,5,13.3 sec,https://www.auto-data.net//images/f4/big8384.jpg,989
+46810,46810,Aixam,eAIXAM,Coupe,2,2,https://www.auto-data.net//images/f86/Aixam-eAIXAM-COUPE_1.jpg,990
+13899,13899,Hyundai,Elantra,Sedan,5,4,10.5 sec,https://www.auto-data.net//images/f71/Hyundai-Elantra-IV_1.jpg,992
+5814,5814,TVR,S,Cabriolet,https://www.auto-data.net//images/f46/TVR-S.jpg,993
+24991,24991,Nissan,AD,Station wagon,5,5,https://www.auto-data.net//images/f56/Nissan-AD-Y11.jpg,994
+931,931,Nissan,Pathfinder,SUV,5,5,10.3 sec,https://www.auto-data.net//images/f68/Nissan-Pathfinder-II_1.jpg,996
+52686,52686,Citroen,SpaceTourer,Minivan,8-9,5,https://www.auto-data.net//images/f74/Citroen-SpaceTourer-XL-facelift-2024_1.jpg,997
+10219,10219,GMC,Yukon,SUV,5-9,5,https://www.auto-data.net//images/f84/GMC-Yukon-XL-II-GMT800_1.jpg,998
+8311,8311,Lotus,Elan,Cabriolet,2,2,7.2 sec,https://www.auto-data.net//images/f45/Lotus-Elan-II-M100_1.jpg,1001
+33869,33869,Hyundai,Nexo,SUV,5,5,9.2 sec,https://www.auto-data.net//images/f19/hyundai-nexo.jpg,1003
+46826,46826,Alpine,A110,Coupe,2,2,4.5 sec,https://www.auto-data.net//images/f37/Alpine-A110-E-ternite-Prototype_1.jpg,1004
+25510,25510,Audi,Q2,SUV,5,5,8.5 sec,https://www.auto-data.net//images/f9/file5973705.jpg,1005
+14968,14968,Citroen,Xantia,Hatchback,5,5,https://www.auto-data.net//images/f126/Citroen-Xantia-X1_3.jpg,1007
+47723,47723,BMW,X6 M,SAC,5,5,3.9 sec,https://www.auto-data.net//images/f123/BMW-X6-M-F96-LCI-facelift-2023_1.jpg,1010
+32656,32656,Felino,cB7,Coupe,2,2,https://www.auto-data.net//images/f48/Felino-cB7_1.jpg,1015
+15624,15624,Mitsubishi,Eclipse,"Coupe, Liftback",4,2,https://www.auto-data.net//images/f74/Mitsubishi-Eclipse-II-2G_1.jpg,1018
+30070,30070,Cadillac,XTS,Sedan,5,4,https://www.auto-data.net//images/f110/Cadillac-XTS.jpg,1021
+24047,24047,Daewoo,G2X,Cabriolet,2,2,7.2 sec,https://www.auto-data.net//images/f1/big8261.jpg,1024
+28689,28689,Plymouth,Neon,Sedan,5,4,https://www.auto-data.net//images/f34/Plymouth-Neon_1.jpg,1025
+31871,31871,Ford,GT,Coupe,2,2,https://www.auto-data.net//images/f2/ford-gt-ii.jpg,1027
+5075,5075,Lancia,Kappa,Sedan,5,4,9.2 sec,https://www.auto-data.net//images/f40/Lancia-Kappa-838_1.jpg,1029
+1642,1642,Alpina,B8,Sedan,5,4,5.8 sec,https://www.auto-data.net//images/f67/Alpina-B8-E36.jpg,1030
+39828,39828,DeSoto,Firesweep,Coupe,6,2,https://www.auto-data.net//images/f117/DeSoto-2-Door-Sportsman-I-facelift-1958_1.jpg,1031
+51922,51922,BMW,i4,Coupe,5,5,5.7 sec,https://www.auto-data.net//images/f85/BMW-i4-G26-LCI-facelift-2024_1.jpg,1033
+29718,29718,Hummer,H1,Off-road vehicle,4,4,14.1 sec,https://www.auto-data.net//images/f47/Hummer-H1-I_1.jpg,1034
+30210,30210,Cadillac,CTS,Station wagon,5,5,https://www.auto-data.net//images/f126/Cadillac-CTS-II-Sport-Wagon_1.jpg,1037
+36221,36221,Toyota,Proace,Minivan,8-9,5,https://www.auto-data.net//images/f66/Toyota-Proace-Verso-II-LWB_1.jpg,1039
+6521,6521,Ferrari,Berlinetta Boxer,Coupe,2,2,https://www.auto-data.net//images/f37/Ferrari-512-BB_1.jpg,1040
+48175,48175,Togg,T10X,"SUV, Crossover",5,5,7.4 sec,https://www.auto-data.net//images/f64/Togg-T10X_1.jpg,1042
+45700,45700,VinFast,VF 9,"SUV, Crossover",7,5,https://www.auto-data.net//images/f99/VinFast-VF9_1.jpg,1048
+4255,4255,Audi,R8,Coupe,2,2,3.9 sec,https://www.auto-data.net//images/f114/Audi-R8-Coupe_1.jpg,1049
+1664,1664,Alpina,B6,Coupe,https://www.auto-data.net//images/f56/Alpina-B6-E30_1.jpg,1057
+562,562,Nissan,President,Sedan,5,4,https://www.auto-data.net//images/f48/Nissan-President-HG50_1.jpg,1065
+5518,5518,Peugeot,505,Station wagon,https://www.auto-data.net//images/f104/Peugeot-505-Break-551D.jpg,1077
+18349,18349,Ferrari,458,Coupe - Cabriolet,2,2,3.4 sec,https://www.auto-data.net//images/f118/Ferrari-458-Spider_1.jpg,1078
+30675,30675,Kia,Sedona,Minivan,7-8,5,9.1 sec,https://www.auto-data.net//images/f3/kia-sedona-ii-lwb.jpg,1079
+18675,18675,Alfa Romeo,4C,Coupe,2,2,4.5 sec,https://www.auto-data.net//images/f104/Alfa-Romeo-4C_1.jpg,1080
+36950,36950,Hyundai,Palisade,"SUV, Crossover",7-8,5,10.2 sec,https://www.auto-data.net//images/f30/Hyundai-Palisade.jpg,1083
+47989,47989,Chevrolet,Silverado 3500 HD,Pick-up,5,4,https://www.auto-data.net//images/f46/Chevrolet-Silverado-3500-HD-III-K2XX-Crew-Cab-Long-Box_1.jpg,1087
+7238,7238,Fiat,UNO,Hatchback,5,3-5,15.9 sec,https://www.auto-data.net//images/f67/Fiat-UNO-146A_1.jpg,1088
+47914,47914,Chevrolet,Silverado 2500 HD,Pick-up,2,2,https://www.auto-data.net//images/f102/Chevrolet-Silverado-2500-HD-III-K2XX-Regular-Cab-Long-Bed_1.jpg,1089
+11397,11397,Mazda,929,Sedan,https://www.auto-data.net//images/f118/Mazda-929-II-HB_1.jpg,1091
+24157,24157,Alpina,B5,Sedan,5,4,4.2 sec,https://www.auto-data.net//images/f25/file7684790.jpg,1095
+15876,15876,SeAZ,1111,Hatchback,4,3,18 sec,https://www.auto-data.net//images/f9/big8039.jpg,1096
+7147,7147,Fiat,Ritmo,Coupe,https://www.auto-data.net//images/f89/Fiat-Ritmo-I-138A-facelift-1982.jpg,1103
+35315,35315,Volkswagen,T-Cross,SUV,5,5,11.5 sec,https://www.auto-data.net//images/f10/Volkswagen-T-Cross.jpg,1104
+51712,51712,Citroen,C5 Aircross,SUV,5,5,8.9 sec,https://www.auto-data.net//images/f32/Citroen-C5-Aircross-facelift-2022_1.jpg,1105
+48231,48231,Ford,Edge,SUV,7,5,https://www.auto-data.net//images/f57/Ford-Edge-L-III_1.jpg,1107
+24878,24878,Chrysler,PT Cruiser,Cabriolet,4,2,12.8 sec,https://www.auto-data.net//images/f126/Chrysler-PT-Cruiser-Cabrio_1.jpg,1108
+24058,24058,Subaru,Legacy,Station wagon,5,5,https://www.auto-data.net//images/f20/Subaru-Legacy-I-Station-Wagon-BJF.jpg,1109
+31654,31654,Kia,Stonic,Crossover,5,5,13.2 sec,https://www.auto-data.net//images/f14/kia-stonic_1.jpg,1110
+1740,1740,Opel,Campo,Pick-up,4,2,23.4 sec,https://www.auto-data.net//images/f9/big949.jpg,1113
+5601,5601,Peugeot,405,Station wagon,https://www.auto-data.net//images/f60/Peugeot-405-I-Break-15E.jpg,1115
+37535,37535,Hyundai,Kona,SUV,5,5,11.2-11.6 sec,https://www.auto-data.net//images/f1/hyundai-kona.jpg,1116
+36495,36495,SsangYong,Musso,Pick-up,5,4,https://www.auto-data.net//images/f69/SsangYong-Musso-II_1.jpg,1117
+7745,7745,Ford,Sport Trac,Pick-up,https://www.auto-data.net//images/f44/Ford-Sport-Trac-I_1.jpg,1122
+46464,46464,Fiat,Doblo,Minivan,7,5,13.9 sec,https://www.auto-data.net//images/f34/Fiat-Doblo-II-facelift-2015_1.jpg,1127
+18007,18007,Dacia,Lodgy,MPV,7,5,12.4 sec,https://www.auto-data.net//images/f77/Dacia-Lodgy_1.jpg,1128
+34042,34042,Ford,Everest,SUV,5-7,5,https://www.auto-data.net//images/f53/Ford-Everest-II-U375-UA-facelift-2018_1.jpg,1129
+37715,37715,Cadillac,CT5,Sedan,5,4,https://www.auto-data.net//images/f42/Cadillac-CT5.jpg,1133
+51241,51241,Holden,Commodore,Sedan,5,4,https://www.auto-data.net//images/f103/Holden-Commodore-Sedan-IV-VF_1.jpg,1134
+1261,1261,Alfa Romeo,8C Competizione,Coupe,2,2,4 sec,https://www.auto-data.net//images/f44/Alfa-Romeo-8C-Competizione_1.jpg,1138
+24378,24378,Morgan,Aero 8,Cabriolet,2,2,4.5 sec,https://www.auto-data.net//images/f128/Morgan-Aero-8-facelift-2015_1.jpg,1139
+48821,48821,Volvo,EX30,"SUV, Crossover",5,5,5.3 sec,https://www.auto-data.net//images/f120/Volvo-EX30_1.jpg,1140
+43814,43814,Mercedes-Benz,W111,Cabriolet,5,2,11.8 sec,https://www.auto-data.net//images/f93/Mercedes-Benz-W111_1.jpg,1144
+37467,37467,SsangYong,Chairman,Sedan,5,4,https://www.auto-data.net//images/f107/SsangYong-Chairman-W-facelift-2011.jpg,1146
+127,127,Daihatsu,Charade,Hatchback,5,3/5,11 sec,https://www.auto-data.net//images/f122/Daihatsu-Charade-IV-Com-G200_1.jpg,1148
+14697,14697,Chrysler,300,Station wagon,5,5,5 sec,https://www.auto-data.net//images/f119/Chrysler-300-Touring_1.jpg,1154
+12380,12380,Honda,CRX,Liftback,https://www.auto-data.net//images/f52/Honda-CRX-I-AF-AS_1.jpg,1156
+32042,32042,Vauxhall,Crossland,SUV,5,5,https://www.auto-data.net//images/f9/vauxhall-crossland-x.jpg,1157
+5739,5739,Triumph,Toledo,Sedan,https://www.auto-data.net//images/f110/Triumph-Toledo.jpg,1158
+7546,7546,Ford,Maverick,SUV,5,5,10.7 sec,https://www.auto-data.net//images/f100/Ford-Maverick-II_1.jpg,1160
+18342,18342,Dacia,Dokker,MPV,5,5,15.9 sec,https://www.auto-data.net//images/f59/Dacia-Dokker_1.jpg,1161
+47254,47254,Ford,Falcon,Sedan,5,4,https://www.auto-data.net//images/f69/Ford-Falcon-FG_1.jpg,1162
+43642,43642,Mercedes-Benz,M-class,SUV,5,5,8.4 sec,https://www.auto-data.net//images/f67/Mercedes-Benz-ML-W164_1.jpg,1167
+21248,21248,BMW,Z3,Coupe,2,3,6.3 sec,https://www.auto-data.net//images/f32/BMW-Z3-Coupe-E36-8_1.jpg,1168
+1462,1462,Alfa Romeo,Spider,Cabriolet,2,2,https://www.auto-data.net//images/f74/Alfa-Romeo-Spider-105_1.jpg,1171
+10910,10910,Maserati,GranTurismo,Coupe,4,2,5.2 sec,https://www.auto-data.net//images/f0/big4920.jpg,1172
+49053,49053,Toyota,Avalon,Sedan,5,4,https://www.auto-data.net//images/f30/toyota-avalon-v-xx50.jpg,1178
+2530,2530,Opel,Senator,Sedan,5,4,9 sec,https://www.auto-data.net//images/f114/Opel-Senator-B_1.jpg,1179
+7102,7102,Fiat,131,Coupe,https://www.auto-data.net//images/f3/big3233.jpg,1186
+11257,11257,Mazda,MX-5,Roadster,2,2,9.7 sec,https://www.auto-data.net//images/f94/Mazda-MX-5-II-NB_1.jpg,1192
+11241,11241,Mazda,MX-3,Coupe,4,2,8.5 sec,https://www.auto-data.net//images/f34/Mazda-MX-3-EC_1.jpg,1196
+6097,6097,Vauxhall,Victor,Station wagon,5,5,https://www.auto-data.net//images/f73/Vauxhall-Victor-FE-Estate.jpg,1198
+50931,50931,Honda,Brio,Hatchback,5,5,https://www.auto-data.net//images/f105/Honda-Brio-II-facelift-2023_1.jpg,1200
+14354,14354,Chevrolet,Nubira,Sedan,5,4,11.6 sec,https://www.auto-data.net//images/f4/big7074.jpg,1205
+12476,12476,Caterham,21,Roadster,2,2,6.4 sec,https://www.auto-data.net//images/f34/Caterham-21_1.jpg,1211
+38328,38328,Seat,Tarraco,SUV,7,5,9.4 sec,https://www.auto-data.net//images/f24/Seat-Tarraco.jpg,1213
+51075,51075,Exeed,LX,SUV,5,5,8.8 sec,https://www.auto-data.net//images/f105/Exeed-LX_1.jpg,1218
+33107,33107,Volkswagen,Fox,"Station wagon , MPV",5,5,11.9 sec,https://www.auto-data.net//images/f12/volkswagen-spacefox-facelift-2014.jpg,1226
+47323,47323,DR,2,Hatchback,5,5,12 sec,https://www.auto-data.net//images/f91/DR-2_1.jpg,1228
+41564,41564,Jaguar,E-Pace,SUV,5,5,7.5 sec,https://www.auto-data.net//images/f88/Jaguar-E-Pace-facelift-2020_1.jpg,1230
+40865,40865,Volvo,S90,Sedan,5,4,5.1 sec,https://www.auto-data.net//images/f97/Volvo-S90-facelift-2020_5.jpg,1235
+17154,17154,Honda,CR-V,SUV,5,5,10.6 sec,https://www.auto-data.net//images/f22/file8395455.jpg,1237
+44836,44836,Mercedes-Benz,Ponton,Sedan,5,5,21 sec,https://www.auto-data.net//images/f34/Mercedes-Benz-W120-Sedan_1.jpg,1240
+22735,22735,Peugeot,2008,"SUV, Crossover",5,5,10.3 sec,https://www.auto-data.net//images/f27/file1895898.jpg,1248
+3209,3209,Toyota,Highlander,SUV,5,5,7.8 sec,https://www.auto-data.net//images/f38/Toyota-Highlander-I_1.jpg,1255
+22338,22338,Lada,Kalina,Station wagon,5,5,13.1 sec,https://www.auto-data.net//images/f26/file209874.jpg,1257
+45592,45592,Alpina,B4,Coupe,4,4,3.7 sec,https://www.auto-data.net//images/f48/Alpina-B4-Gran-Coupe-G26_1.jpg,1266
+18992,18992,Infiniti,QX70,SUV,5,5,6.8 sec,https://www.auto-data.net//images/f65/Infiniti-QX70_1.jpg,1271
+28815,28815,Mercury,Cougar,Coupe,4,3,https://www.auto-data.net//images/f90/Mercury-Cougar-VIII_1.jpg,1276
+31044,31044,Dodge,Caravan,Minivan,7,5,https://www.auto-data.net//images/f1/dodge-caravan-iii-lwb.jpg,1278
+45570,45570,Opel,GT,Coupe,2,2,https://www.auto-data.net//images/f40/Opel-GT-I_1.jpg,1279
+574,574,Nissan,Elgrand,Minivan,8,5,https://www.auto-data.net//images/f31/Nissan-Elgrand-E50.jpg,1284
+30717,30717,Acura,Integra,Hatchback,5,5,https://www.auto-data.net//images/f47/Acura-Integra-I_1.jpg,1287
+12135,12135,Honda,Element,SUV,4,5,9.5 sec,https://www.auto-data.net//images/f79/Honda-Element-I_1.jpg,1288
+27413,27413,Citroen,C2,Hatchback,4,3,12.6 sec,https://www.auto-data.net//images/f117/Citroen-C2-Phase-II-2008_1.jpg,1291
+34459,34459,Honda,BR-V,SUV,7,5,https://www.auto-data.net//images/f24/Honda-BR-V_1.jpg,1293
+44139,44139,Toyota,Prius,Liftback,5,5,11.1 sec,https://www.auto-data.net//images/f84/Toyota-Prius-Plug-in-Hybrid-XW50_1.jpg,1296
+6390,6390,Vauxhall,Carlton Mk,Station wagon,5,5,https://www.auto-data.net//images/f51/Vauxhall-Carlton-Mk-III-Estate.jpg,1303
+50758,50758,Audi,A7,Liftback,5,5,5.6 sec,https://www.auto-data.net//images/f99/Audi-A7-Sportback-C8_1.jpg,1304
+45881,45881,Peugeot,607,Sedan,5,4,12.6 sec,https://www.auto-data.net//images/f114/Peugeot-607-Phase-II-2004_1.jpg,1311
+51477,51477,Lynk & Co,05,"Coupe, SUV",5,5,6.5 sec,https://www.auto-data.net//images/f130/Lynk-Co-05_1.jpg,1312
+18683,18683,Mercedes-Benz,CLA,Coupe,5,4,11.6 sec,https://www.auto-data.net//images/f121/Mercedes-Benz-CLA-Coupe-C117_1.jpg,1319
+356,356,Nissan,Pick UP,Pick-up,https://www.auto-data.net//images/f62/Nissan-Pick-UP-720.jpg,1325
+37751,37751,Suzuki,Ertiga,MPV,7,5,https://www.auto-data.net//images/f58/Suzuki-Ertiga-I-facelift-2015.jpg,1327
+5726,5726,Triumph,2500,Sedan,5,4,https://www.auto-data.net//images/f79/Triumph-2500.jpg,1334
+37604,37604,Hyundai,i10,Hatchback,5,5,14.6 sec,https://www.auto-data.net//images/f58/Hyundai-i10-III_1.jpg,1337
+28884,28884,Dodge,Dakota,Pick-up,6,4,https://www.auto-data.net//images/f6/big1376.jpg,1338
+29130,29130,Mitsubishi,Legnum,Station wagon,5,5,https://www.auto-data.net//images/f37/Mitsubishi-Legnum-EAO_1.jpg,1343
+44618,44618,Volkswagen,Sharan,"Minivan, MPV",7,5,14.7 sec,https://www.auto-data.net//images/f41/Volkswagen-Sharan-I-facelift-2004_3.jpg,1345
+34271,34271,Toyota,Levin,Sedan,4-5,4,https://www.auto-data.net//images/f3/Toyota-Levin-facelift-2017.jpg,1346
+33480,33480,Chevrolet,Sonic,Sedan,5,4,https://www.auto-data.net//images/f7/chevrolet-sonic-i-sedan-facelift-2016.jpg,1347
+113,113,Daihatsu,YRV,Minivan,5,5,https://www.auto-data.net//images/f92/Daihatsu-YRV_1.jpg,1350
+13590,13590,Seat,Exeo,Sedan,5,4,9.2 sec,https://www.auto-data.net//images/f87/Seat-Exeo_1.jpg,1353
+45945,45945,Mitsubishi,Xpander,MPV,7,5,https://www.auto-data.net//images/f63/Mitsubishi-Xpander-facelift-2021_1.jpg,1359
+19765,19765,Chevrolet,Cruze,Station wagon,5,5,9.5 sec,https://www.auto-data.net//images/f91/Chevrolet-Cruze-Combi-facelift-2013_1.jpg,1364
+34981,34981,Toyota,Harrier,"SUV, Crossover",5,5,https://www.auto-data.net//images/f16/Toyota-Harrier-II-XU30.jpg,1367
+24225,24225,Alpina,D4,Cabriolet,4,2,5 sec,https://www.auto-data.net//images/f10/file7140606.jpg,1371
+2974,2974,Dodge,RAM,Pick-up,6,4,https://www.auto-data.net//images/f46/Dodge-Ram-1500-III-DR-DH_1.jpg,1375
+6823,6823,Fiat,Siena,Sedan,5,4,11.5 sec,https://www.auto-data.net//images/f126/Fiat-Siena-178_1.jpg,1381
+18163,18163,Fiat,Qubo,"Minivan, MPV",5,5,15.2 sec,https://www.auto-data.net//images/f56/Fiat-Qubo_1.jpg,1383
+51203,51203,Kia,Carnival,1.6 T-GDI Smartstream (245 Hp) Hybrid Automatic 9 Seats,Minivan,5,https://www.auto-data.net//images/f69/Kia-Carnival-IV-facelift-2023_1.jpg,1386
+44816,44816,Citroen,Saxo,Hatchback,5,5,18.3 sec,https://www.auto-data.net//images/f68/Citroen-Saxo-S0-S1_1.jpg,1387
+15587,15587,Mitsubishi,Proudia/dignity,Sedan,5,4,https://www.auto-data.net//images/f52/Mitsubishi-Proudia-dignity.jpg,1393
+6710,6710,Porsche,Boxster,Roadster,2,2,6.4 sec,https://www.auto-data.net//images/f112/Porsche-Boxster-986_1.jpg,1394
+37878,37878,Toyota,Matrix,Hatchback,5,5,https://www.auto-data.net//images/f113/Toyota-Matrix-II_1.jpg,1396
+28759,28759,Perodua,Kenari,Minivan,5,5,17.7 sec,https://www.auto-data.net//images/f118/Perodua-Kenari.jpg,1400
+39554,39554,DeSoto,Deluxe,Coupe,3,2,https://www.auto-data.net//images/f55/DeSoto-3-Passenger-Coupe_1.jpg,1401
+33957,33957,Opel,Karl,Hatchback,5,5,14 sec,https://www.auto-data.net//images/f14/Opel-Karl-Rocks.jpg,1408
+51195,51195,Jeep,Gladiator,Pick-up,5,4,https://www.auto-data.net//images/f33/Jeep-Gladiator-JT-facelift-2023_5.jpg,1420
+41738,41738,Chrysler,Saratoga,Sedan,5,4,14.7 sec,https://www.auto-data.net//images/f33/Chrysler-Saratoga.jpg,1422
+13243,13243,Lada,2107,Sedan,5,4,https://www.auto-data.net//images/f1/big6221.jpg,1424
+11771,11771,Holden,Astra,Hatchback,5,5,https://www.auto-data.net//images/f0/big5410.jpg,1427
+39346,39346,Volkswagen,Atlas,SUV,5,5,https://www.auto-data.net//images/f36/Volkswagen-Atlas-Cross-Sport_1.jpg,1438
+48769,48769,Mercedes-Benz,Sprinter,Van,3,5,https://www.auto-data.net//images/f34/Mercedes-Benz-Sprinter-Panel-Van-W907-W910_1.jpg,1439
+45548,45548,Holden,Barina,Hatchback,5,5,https://www.auto-data.net//images/f79/Holden-Barina-MB-I_1.jpg,1440
+20555,20555,Volkswagen,Amarok,Pick-up,2,2,10.3-10.7 sec,https://www.auto-data.net//images/f90/Volkswagen-Amarok-Single-Cab_1.jpg,1448
+45560,45560,Lister,Storm,Coupe,4,2,https://www.auto-data.net//images/f107/Lister-Storm_1.jpg,1456
+48434,48434,Buick,LaCrosse,Sedan,5,4,https://www.auto-data.net//images/f114/Buick-LaCrosse-II_1.jpg,1459
+16472,16472,Suzuki,Baleno,Sedan,5,4,11.2 sec,https://www.auto-data.net//images/f114/Suzuki-Baleno-EG_1.jpg,1461
+45787,45787,Land Rover,Range Rover Sport,SUV,5,5,5.4 sec,https://www.auto-data.net//images/f111/Land-Rover-Range-Rover-Sport-III_3.jpg,1468
+8207,8207,Lincoln,Town Car,Sedan,5,4,https://www.auto-data.net//images/f38/Lincoln-Town-Car-III-FN145_1.jpg,1469
+19797,19797,Volvo,XC70,"Station wagon , Crossover",5,5,9.2 sec,https://www.auto-data.net//images/f30/file7557984.jpg,1471
+15570,15570,Mitsubishi,Space Star,Minivan,5,5,12 sec,https://www.auto-data.net//images/f108/Mitsubishi-Space-Star-DG0_1.jpg,1476
+10489,10489,Renault,25,Hatchback,5,5,https://www.auto-data.net//images/f32/Renault-25-B29_1.jpg,1480
+29731,29731,SsangYong,XLV,"SUV, Crossover",5,5,https://www.auto-data.net//images/f30/ssangyong-xlv.jpg,1481
+32634,32634,Daihatsu,Sigra,MPV,7,5,https://www.auto-data.net//images/f23/daihatsu-sigra.jpg,1483
+31096,31096,GMC,Acadia,"SUV, Crossover",8,5,8.4 sec,https://www.auto-data.net//images/f108/GMC-Acadia-I_1.jpg,1486
+2637,2637,De Tomaso,Mangusta,Cabriolet,2,2,https://www.auto-data.net//images/f101/De-Tomaso-Mangusta-II_1.jpg,1490
+51534,51534,DS,3,Crossover,5,5,8.4 sec,https://www.auto-data.net//images/f125/DS-3-facelift-2023_1.jpg,1493
+23074,23074,Land Rover,Discovery Sport,SUV,5,5,10.3 sec,https://www.auto-data.net//images/f27/file1037263.jpg,1503
+13354,13354,Mercury,Grand Marquis,Sedan,5,4,https://www.auto-data.net//images/f121/Mercury-Grand-Marquis-II_1.jpg,1508
+13971,13971,Chery,Sweet (QQ),Hatchback,5,5,13 sec,https://www.auto-data.net//images/f78/Chery-Sweet-QQ_1.jpg,1510
+7063,7063,Fiat,Regata,Station wagon,https://www.auto-data.net//images/f44/Fiat-Regata-Weekend.jpg,1512
+14786,14786,Chrysler,Concorde,Sedan,5,4,9.5 sec,https://www.auto-data.net//images/f95/Chrysler-Concorde-II_1.jpg,1513
+16383,16383,JAC,Rein,SUV,5,5,https://www.auto-data.net//images/f89/JAC-Rein.jpg,1518
+34985,34985,FAW,Besturn B30,Sedan,5,4,https://www.auto-data.net//images/f16/FAW-B30.jpg,1524
+153,153,Jaguar,E-type,Coupe,2,2,https://www.auto-data.net//images/f127/Jaguar-E-Type_1.jpg,1526
+35913,35913,Aixam,SENSATION,Hatchback,2,3,https://www.auto-data.net//images/f111/Aixam-SANSATION-COMPACT_1.jpg,1531
+11678,11678,Cadillac,Catera,Sedan,https://www.auto-data.net//images/f56/Cadillac-Catera_1.jpg,1536
+10245,10245,GMC,Envoy,SUV,5,5,https://www.auto-data.net//images/f93/GMC-Envoy-II-XUV-GMT360_1.jpg,1541
+49676,49676,Hyundai,Grandeur/Azera,Sedan,5,4,https://www.auto-data.net//images/f78/Hyundai-Grandeur-Azera-VII-GN7_1.jpg,1559
+44588,44588,Citroen,C5 X,"Station wagon , Crossover",5,5,https://www.auto-data.net//images/f111/Citroen-C5-X_1.jpg,1563
+48481,48481,Honda,Jazz,Hatchback,5,5,9.7 sec,https://www.auto-data.net//images/f75/Honda-Jazz-IV-facelift-2023_1.jpg,1568
+10849,10849,Renault Samsung,SM5,Sedan,5,4,https://www.auto-data.net//images/f4/big4854.jpg,1570
+34399,34399,Citroen,Berlingo,Minivan,5,5,12.3 sec,https://www.auto-data.net//images/f26/Citroen-Berlingo-III-M_1.jpg,1571
+41498,41498,Mazda,BT-50,Pick-up,5,4,https://www.auto-data.net//images/f64/Mazda-BT-50-Dual-Cab-III_1.jpg,1575
+16392,16392,Morris,Marina,Sedan,https://www.auto-data.net//images/f55/Morris-Marina-I.jpg,1579
+15939,15939,Isuzu,Trooper,SUV,5,5,16.5 sec,https://www.auto-data.net//images/f9/big8079.jpg,1581
+29264,29264,Infiniti,G,Sedan,5,4,5.9 sec,https://www.auto-data.net//images/f81/Infiniti-G35-Sport-Sedan_1.jpg,1590
+33211,33211,Honda,FIT,Hatchback,5,5,https://www.auto-data.net//images/f0/honda-fit-iii-facelift-2017.jpg,1591
+24333,24333,Rolls-Royce,Phantom,Sedan,5,4,6.1 sec,https://www.auto-data.net//images/f9/file7237500.jpg,1593
+38070,38070,MG,HS,SUV,5,5,9.9 sec,https://www.auto-data.net//images/f1/MG-HS.jpg,1596
+14650,14650,Innocenti,Mini,Hatchback,https://www.auto-data.net//images/f47/Innocenti-Mini.jpg,1606
+51275,51275,Acura,ZDX,SUV,5,5,https://www.auto-data.net//images/f36/Acura-ZDX-II_1.jpg,1619
+13282,13282,Lada,2104,Station wagon,5,5,18.5 sec,https://www.auto-data.net//images/f0/big6270.jpg,1621
+42395,42395,Porsche,928,Coupe,4,2,7.7 sec,https://www.auto-data.net//images/f23/Porsche-928.jpg,1623
+52118,52118,Chevrolet,Blazer EV,SUV,5,5,https://www.auto-data.net//images/f78/Chevrolet-Blazer-EV_1.jpg,1624
+45613,45613,Nissan,Xterra,SUV,5,5,https://www.auto-data.net//images/f124/Nissan-Xterra-II-facelift-2008_1.jpg,1626
+14926,14926,Citroen,C8,"Minivan, MPV",7,5,11.6 sec,https://www.auto-data.net//images/f7/big7537.jpg,1627
+11893,11893,Saab,9000,Hatchback,5,5,10 sec,https://www.auto-data.net//images/f71/Saab-9000-Hatchback_1.jpg,1631
+28549,28549,Toyota,Chaser,Sedan,5,4,https://www.auto-data.net//images/f21/toyota-chaser-.jpg,1632
+48414,48414,Buick,Enclave,"SUV, Crossover",7-8,5,https://www.auto-data.net//images/f70/Buick-Enclave-I_1.jpg,1634
+5072,5072,Lancia,Delta,Hatchback,5,5,5.7 sec,https://www.auto-data.net//images/f75/Lancia-Delta-I-831-facelift-1991_1.jpg,1635
+45293,45293,Chevrolet,Equinox,SUV,5,5,https://www.auto-data.net//images/f54/Chevrolet-Equinox-II_1.jpg,1639
+39101,39101,Toyota,Aqua,Hatchback,5,5,https://www.auto-data.net//images/f34/Toyota-Aqua-Crossover-facelift-2017_1.jpg,1653
+52361,52361,Trumpchi,GN6/M6,MPV,7,5,https://www.auto-data.net//images/f85/Trumpchi-GN6_1.jpg,1655
+37743,37743,Audi,RS Q3,SUV,5,5,4.5 sec,https://www.auto-data.net//images/f75/Audi-RS-Q3-F3.jpg,1664
+7031,7031,Fiat,130,Sedan,https://www.auto-data.net//images/f65/Fiat-130.jpg,1667
+31132,31132,Toyota,Town Ace,Minivan,6,4,https://www.auto-data.net//images/f73/Toyota-Town-Ace-Noah_1.jpg,1669
+29987,29987,Renault,Kaptur,Crossover,5,5,11.2 sec,https://www.auto-data.net//images/f53/Renault-Kaptur.jpg,1675
+51292,51292,MG,MG3,Hatchback,5,5,8 sec,https://www.auto-data.net//images/f101/MG-MG3-III_1.jpg,1681
+33379,33379,Hyundai,Veloster,"Coupe, Hatchback",4,4,https://www.auto-data.net//images/f5/hyundai-veloster-ii.jpg,1690
+36022,36022,Kia,Stinger,Liftback,5,5,6.3 sec,https://www.auto-data.net//images/f50/Kia-Stinger_1.jpg,1697
+31123,31123,Alfa Romeo,166,Sedan,5,4,8.5 sec,https://www.auto-data.net//images/f88/Alfa-Romeo-166-936_1.jpg,1702
+16127,16127,Subaru,Justy,Hatchback,5,5,11 sec,https://www.auto-data.net//images/f107/Subaru-Justy-III-NH-G3X_1.jpg,1706
+6766,6766,Bentley,Azure,Cabriolet,4,2,6.7 sec,https://www.auto-data.net//images/f69/Bentley-Azure_1.jpg,1714
+47847,47847,Holden,Colorado,Pick-up,5,4,https://www.auto-data.net//images/f98/Holden-Colorado-II-Crew-Cab_1.jpg,1715
+13551,13551,Seat,Toledo,Sedan,5,4,13.3 sec,https://www.auto-data.net//images/f34/Seat-Toledo-I-1L.jpg,1717
+23941,23941,Suzuki,Alto,Hatchback,5,3-5,https://www.auto-data.net//images/f111/Suzuki-Alto-V_1.jpg,1719
+51047,51047,Exeed,VX,SUV,7,5,https://www.auto-data.net//images/f80/Exeed-VX-facelift-2023_1.jpg,1720
+45352,45352,Maxus,D60,SUV,5,5,https://www.auto-data.net//images/f95/Maxus-D60_1.jpg,1727
+38033,38033,Ford,F-250 Super Duty,Pick-up,3,2,https://www.auto-data.net//images/f85/Ford-F-250-Super-Duty-IV-facelift-2020-Regular-Cab-Long-box_1.jpg,1729
+34616,34616,Toyota,Avanza,MPV,7,5,https://www.auto-data.net//images/f20/Toyota-Avanza-II.jpg,1731
+16380,16380,Daewoo,Winstorm,SUV,7,5,8.8 sec,https://www.auto-data.net//images/f106/Daewoo-Winstorm_1.jpg,1732
+32896,32896,Dodge,Challenger,Coupe,2-5,2,https://www.auto-data.net//images/f23/dodge-challenger-srt-demon.jpg,1734
+24567,24567,Volvo,960,Sedan,5,4,https://www.auto-data.net//images/f32/Volvo-960-964.jpg,1739
+21680,21680,Suzuki,Celerio,Hatchback,5,5,13.5 sec,https://www.auto-data.net//images/f8/file2112846.jpg,1740
+41037,41037,Honda,Pilot,"SUV, Crossover",8,5,https://www.auto-data.net//images/f39/Honda-Pilot-I-facelift-2006_1.jpg,1742
+14714,14714,Chrysler,LE Baron,Cabriolet,4,2,11.1 sec,https://www.auto-data.net//images/f114/Chrysler-LE-Baron-Coupe.jpg,1743
+33542,33542,Scion,iQ,Hatchback,4,3,11.6 sec,https://www.auto-data.net//images/f6/Scion-iQ.jpg,1744
+15722,15722,Mitsubishi,eK,Minivan,4,5,https://www.auto-data.net//images/f122/Mitsubishi-EK-Wagon_1.jpg,1754
+30005,30005,Hyundai,Sonata,Sedan,5,4,https://www.auto-data.net//images/f76/Hyundai-Sonata-IV-EF_1.jpg,1757
+14048,14048,MG,ZT,Sedan,5,4,11.7 sec,https://www.auto-data.net//images/f114/MG-ZT_1.jpg,1762
+3228,3228,Toyota,Sprinter,Sedan,5,4,https://www.auto-data.net//images/f28/toyota-sprinter-marino.jpg,1763
+38252,38252,Mercedes-Benz,GLS,SUV,4,5,4.9 sec,https://www.auto-data.net//images/f26/Mercedes-Benz-GLS-X167.jpg,1766
+17093,17093,Kia,Venga,Hatchback,5,5,14.5 sec,https://www.auto-data.net//images/f10/file1583813.jpg,1767
+24103,24103,Subaru,Baja,Pick-up,5,4,https://www.auto-data.net//images/f61/Subaru-Baja_1.jpg,1769
+16041,16041,Iveco,Massif 4x4,Off-road vehicle,5,5,https://www.auto-data.net//images/f103/Iveco-Massif-4x4_1.jpg,1777
+3635,3635,Toyota,Probox,Station wagon,5,5,https://www.auto-data.net//images/f44/Toyota-Probox.jpg,1778
+35603,35603,RAM,1500,Pick-up,5-6,4,https://www.auto-data.net//images/f46/RAM-1500-Quad-Cab-I-facelift-2013_1.jpg,1779
+35848,35848,Jeep,Renegade,"SUV, Crossover",5,5,11.2 sec,https://www.auto-data.net//images/f16/Jeep-Renegade-facelift-2019.jpg,1781
+10670,10670,Renault,5,Hatchback,5,3,https://www.auto-data.net//images/f94/Renault-5.jpg,1786
+30869,30869,Infiniti,Q60,Cabriolet,4,2,https://www.auto-data.net//images/f84/Infiniti-Q60-I-Convertible_1.jpg,1787
+16267,16267,TagAz,Vortex Estina,Sedan,4,11 sec,https://www.auto-data.net//images/f5/big8255.jpg,1804
+22548,22548,Renault,Talisman,Sedan,5,4,7.6 sec,https://www.auto-data.net//images/f9/file5398285.jpg,1806
+10872,10872,Great Wall,Deer,Pick-up,5,4,https://www.auto-data.net//images/f3/big4883.jpg,1808
+52357,52357,Audi,S6 e-tron,Station wagon,5,5,3.9 sec,https://www.auto-data.net//images/f41/Audi-S6-Avant-e-tron_1.jpg,1809
+9534,9534,Volvo,440 K,Hatchback,5,5,11 sec,https://www.auto-data.net//images/f43/Volvo-440-K-445.jpg,1810
+33411,33411,Qoros,3,SUV,5,5,9.8 sec,https://www.auto-data.net//images/f1/qoros-3-city-suv.jpg,1811
+10949,10949,Xin Kai,SR-V X3,SUV,5,5,https://www.auto-data.net//images/f3/big5003.jpg,1812
+11334,11334,Mazda,Capella,Sedan,5,4,https://www.auto-data.net//images/f6/big5196.jpg,1814
+27357,27357,Chevrolet,Tracker,SUV,5,5,https://www.auto-data.net//images/f119/Chevrolet-Tracker-II_1.jpg,1815
+38550,38550,Opel,Grandland,SUV,5,5,10.4 sec,https://www.auto-data.net//images/f12/opel-grandland-x.jpg,1831
+15701,15701,Mitsubishi,Lancer,Sedan,5,4,12.7 sec,https://www.auto-data.net//images/f119/Mitsubishi-Lancer-III_1.jpg,1833
+3547,3547,Toyota,Cressida,Station wagon,5,5,https://www.auto-data.net//images/f98/Toyota-Cressida-Wagon-RX3.jpg,1845
+44538,44538,Honda,UR-V,SUV,5,5,8 sec,https://www.auto-data.net//images/f122/Honda-UR-V-facelift-2020_1.jpg,1853
+44346,44346,Volkswagen,Multivan,Minivan,5-7,5,13.2 sec,https://www.auto-data.net//images/f102/Volkswagen-Multivan-T6.1-facelift-2019_1.jpg,1854
+24531,24531,Mitsubishi,GTO,Coupe,2,2,https://www.auto-data.net//images/f123/Mitsubishi-GTO-Z16_1.jpg,1855
+50637,50637,Baojun,360,MPV,6,5,https://www.auto-data.net//images/f119/Baojun-360_1.jpg,1856
+41797,41797,Volkswagen,Arteon,Station wagon,5,5,5.5 sec,https://www.auto-data.net//images/f121/Volkswagen-Arteon-Shooting-Brake_1.jpg,1857
+43041,43041,Maybach,62 S,Sedan,4,4,5.1 sec,https://www.auto-data.net//images/f54/Maybach-62-S-V240-facelift-2010_1.jpg,1859
+45646,45646,Suzuki,Grand Vitara,SUV,5,5,https://www.auto-data.net//images/f99/Suzuki-Grand-Vitara-III_1.jpg,1860
+34595,34595,Skoda,Kamiq,SUV,5,5,13.8 sec,https://www.auto-data.net//images/f95/Skoda-Kamiq_3.jpg,1861
+11631,11631,Rover,400,Hatchback,5,5,11 sec,https://www.auto-data.net//images/f35/Rover-400-Hatchback-RT.jpg,1867
+30848,30848,Ford,Shelby,Cabriolet,4,2,https://www.auto-data.net//images/f28/ford-shelby-i-cabrio.jpg,1869
+17020,17020,Nissan,GT-R,Coupe,4,2,3.1 sec,https://www.auto-data.net//images/f4/file6260392.jpg,1875
+10959,10959,Buick,Park Avenue,Sedan,5,4,7.8 sec,https://www.auto-data.net//images/f71/Buick-Park-Avenue-Shanghai.jpg,1877
+3820,3820,Toyota,Raum,Minivan,5,5,https://www.auto-data.net//images/f95/Toyota-Raum_1.jpg,1879
+3913,3913,Toyota,Will,Hatchback,5,5,https://www.auto-data.net//images/f7/big1817.jpg,1880
+49031,49031,Lotus,Emira,Coupe,2,2,4.4 sec,https://www.auto-data.net//images/f123/Lotus-Emira_1.jpg,1883
+32532,32532,Pontiac,Fiero,Coupe,2,2,12 sec,https://www.auto-data.net//images/f27/pontiac-fiero.jpg,1888
+24032,24032,Alpina,D3,Station wagon,5,5,4.5 sec,https://www.auto-data.net//images/f14/file2203569.jpg,1889
+30992,30992,Lincoln,MKX,Crossover,5,5,https://www.auto-data.net//images/f17/lincoln-mkx-ii.jpg,1891
+15561,15561,Mitsubishi,Carisma,Hatchback,5,5,13.2 sec,https://www.auto-data.net//images/f105/Mitsubishi-Carisma-Hatchback_3.jpg,1898
+10806,10806,Renault,9,Sedan,5,4,https://www.auto-data.net//images/f79/Renault-9-L42.jpg,1900
+25647,25647,Vauxhall,Viva,Sedan,4,2-4,https://www.auto-data.net//images/f105/Vauxhall-Viva-HB.jpg,1902
+1709,1709,Alpina,B3,Coupe,5,2,5.7 sec,https://www.auto-data.net//images/f67/Alpina-B3-E46_1.jpg,1905
+10648,10648,Renault,16,Hatchback,5,5,https://www.auto-data.net//images/f88/Renault-16-115_1.jpg,1912
+11862,11862,Saab,9-5,Station wagon,5,5,7.3 sec,https://www.auto-data.net//images/f95/Saab-9-5-Wagon-facelift-2001_1.jpg,1915
+32950,32950,ChangAn,CS15,SUV,5,5,https://www.auto-data.net//images/f3/changan-cs15.jpg,1916
+51594,51594,XPENG,G6,"Coupe, SUV",5,5,6.6 sec,https://www.auto-data.net//images/f127/XPENG-G6_1.jpg,1924
+43927,43927,Mercedes-Benz,190,Sedan,5,4,10.5 sec,https://www.auto-data.net//images/f53/Mercedes-Benz-190-W201_1.jpg,1926
+2955,2955,Dodge,Daytona,Hatchback,4,3,https://www.auto-data.net//images/f85/Dodge-Daytona_1.jpg,1929
+32798,32798,Isuzu,MU-X,SUV,7,5,https://www.auto-data.net//images/f36/Isuzu-MU-X-RF20-facelift-2017.jpg,1930
+559,559,Nissan,Lucino,Coupe,5,2,https://www.auto-data.net//images/f98/Nissan-Lucino.jpg,1934
+12351,12351,Honda,Mobilio,Minivan,7,5,https://www.auto-data.net//images/f35/Honda-Mobilio-GA-IV_1.jpg,1940
+4803,4803,Audi,90,Sedan,5,4,8.9 sec,https://www.auto-data.net//images/f113/Audi-90-B3-Typ-89-89Q-8A_1.jpg,1942
+23958,23958,Daewoo,Lacetti,Hatchback,5,5,10.7 sec,https://www.auto-data.net//images/f114/Daewoo-Lacetti_1.jpg,1947
+11428,11428,Mazda,Cronos,Sedan,5,4,https://www.auto-data.net//images/f7/big5237.jpg,1950
+37713,37713,Nissan,Livina,MPV,7,5,https://www.auto-data.net//images/f107/Nissan-Livina-II.jpg,1954
+11708,11708,Cadillac,Eldorado,Coupe,5,2,8.2 sec,https://www.auto-data.net//images/f120/Cadillac-Eldorado_1.jpg,1955
+7311,7311,Ford,Escape,SUV,5,5,https://www.auto-data.net//images/f34/Ford-Escape_1.jpg,1959
+3020,3020,Dodge,Shadow,Cabriolet,5,2,https://www.auto-data.net//images/f60/Dodge-Shadow-Convertible_1.jpg,1962
+33767,33767,Alpina,XD4,SUV,5,5,4.6 sec,https://www.auto-data.net//images/f108/Alpina-XD4_1.jpg,1964
+48555,48555,Cadillac,XT6,SUV,6-7,5,https://www.auto-data.net//images/f127/Cadillac-XT6_1.jpg,1973
+16643,16643,DAF,66,Sedan,https://www.auto-data.net//images/f114/DAF-66.jpg,1980
+8128,8128,Ford,Econoline,Minivan,8,4,https://www.auto-data.net//images/f3/big3583.jpg,1981
+23551,23551,McLaren,675LT,Coupe,2,2,2.9 sec,https://www.auto-data.net//images/f18/file3487546.jpg,1982
+14938,14938,Citroen,GS,Hatchback,5,4,https://www.auto-data.net//images/f83/Citroen-GS_1.jpg,1984
+24552,24552,Jaguar,X-type,Sedan,5,4,10.8 sec,https://www.auto-data.net//images/f50/Jaguar-X-type-X400_1.jpg,1991
+27355,27355,Chevrolet,Prizm,Sedan,5,4,https://www.auto-data.net//images/f88/Chevrolet-Prizm_1.jpg,1998
+50837,50837,Lexus,IS,Sedan,5,4,10.2 sec,https://www.auto-data.net//images/f111/Lexus-IS-II-XE20-facelift-2010_1.jpg,2001
+46319,46319,XPENG,P7,"Sedan, Fastback",5,4,https://www.auto-data.net//images/f78/XPENG-P7_1.jpg,2003
+19034,19034,Kia,Carens,MPV,7,5,9.7 sec,https://www.auto-data.net//images/f115/Kia-Carens-III_1.jpg,2004
+15536,15536,Mitsubishi,Space Runner,Minivan,5,4,11 sec,https://www.auto-data.net//images/f130/Mitsubishi-Space-Runner-N50_1.jpg,2011
+13814,13814,Hyundai,Lavita,Minivan,5,4,17.9 sec,https://www.auto-data.net//images/f2/big6642.jpg,2013
+26260,26260,Audi,S2,Station wagon,5,5,6.1 sec,https://www.auto-data.net//images/f66/Audi-S2-Avant_1.jpg,2015
+43541,43541,Dacia,Sandero,Crossover,5,5,https://www.auto-data.net//images/f52/Dacia-Sandero-III-Stepway_1.jpg,2017
+407,407,Nissan,Prairie,Minivan,5,4,https://www.auto-data.net//images/f89/Nissan-Prairie-M11.jpg,2018
+52629,52629,Nissan,Armada,SUV,8,5,https://www.auto-data.net//images/f55/Nissan-Armada-III-Y63_1.jpg,2020
+33115,33115,BMW,M6,Coupe,4,2,4.2 sec,https://www.auto-data.net//images/f29/file8195481.jpg,2023
+46668,46668,Renault,Austral,SUV,5,5,9 sec,https://www.auto-data.net//images/f96/Renault-Austral_3.jpg,2025
+29005,29005,Volvo,S70,Sedan,5,4,7.8 sec,https://www.auto-data.net//images/f37/Volvo-S70_1.jpg,2029
+39181,39181,Nissan,NV200,Minivan,7,5,https://www.auto-data.net//images/f0/file7467556.jpg,2048
+11735,11735,Cadillac,Seville,Sedan,5,4,6.8 sec,https://www.auto-data.net//images/f54/Cadillac-Seville-V_1.jpg,2055
+47604,47604,Holden,Cruze,Sedan,5,4,https://www.auto-data.net//images/f75/Holden-Cruze-JG_1.jpg,2056
+12749,12749,Mercedes-Benz,CLC,Coupe,4,3,11.3 sec,https://www.auto-data.net//images/f61/Mercedes-Benz-CLC-CL203_1.jpg,2059
+16219,16219,Subaru,Forester,"SUV, Crossover",5,5,https://www.auto-data.net//images/f120/Subaru-Forester-II_1.jpg,2061
+27977,27977,Mahindra,XUV500,SUV,7,5,10 sec,https://www.auto-data.net//images/f87/Mahindra-XUV500-facelift-2015_1.jpg,2063
+3513,3513,Toyota,Corsa,Sedan,5,4,https://www.auto-data.net//images/f83/Toyota-Corsa.jpg,2065
+15576,15576,Mitsubishi,Celeste,"Coupe, Hatchback",https://www.auto-data.net//images/f92/Mitsubishi-Celeste-A7.jpg,2074
+15034,15034,Citroen,ID,Sedan,5,4,https://www.auto-data.net//images/f127/Citroen-ID-I.jpg,2077
+24018,24018,Smart,Forfour,Hatchback,4,5,11.2 sec,https://www.auto-data.net//images/f1/file4026985.jpg,2079
+28266,28266,Skoda,Yeti,SUV,5,5,12 sec,https://www.auto-data.net//images/f79/Skoda-Yeti_1.jpg,2095
+38397,38397,Alfa Romeo,Giulia,Sedan,5,4,9.7 sec,https://www.auto-data.net//images/f43/Alfa-Romeo-Giulia-952_1.jpg,2096
+480,480,Nissan,Sunny,Station wagon,5,5,https://www.auto-data.net//images/f70/Nissan-Sunny-III-Wagon-Y10.jpg,2098
+37097,37097,Luxgen,U6,SUV,5,5,https://www.auto-data.net//images/f30/Luxgen-U6-I-facelift-2017.jpg,2100
+35293,35293,Honda,Vezel,SUV,5,5,https://www.auto-data.net//images/f16/Honda-Vezel.jpg,2102
+14800,14800,Chrysler,Sebring,Cabriolet,4,2,11.8 sec,https://www.auto-data.net//images/f118/Chrysler-Sebring-Convertible-JS_1.jpg,2105
+10854,10854,Wiesmann,Roadster,Roadster,2,2,4.9 sec,https://www.auto-data.net//images/f0/big4860.jpg,2107
+42172,42172,Alfa Romeo,145,Hatchback,5,3,11.2 sec,https://www.auto-data.net//images/f99/Alfa-Romeo-145-930-facelift-1999_1.jpg,2112
+7639,7639,Ford,Excursion,SUV,8-9,5,https://www.auto-data.net//images/f82/Ford-Excursion_1.jpg,2114
+42120,42120,Hyundai,Tucson,SUV,5,5,9.6 sec,https://www.auto-data.net//images/f32/Hyundai-Tucson-IV_1.jpg,2116
+32052,32052,Seat,Arona,SUV,5,5,11.9 sec,https://www.auto-data.net//images/f26/seat-arona.jpg,2119
+44203,44203,Vauxhall,Grandland,SUV,5,5,https://www.auto-data.net//images/f95/Vauxhall-Grandland-facelift-2021_1.jpg,2121
+9554,9554,Volvo,S40,Sedan,5,4,8.2 sec,https://www.auto-data.net//images/f91/Volvo-S40-II_1.jpg,2122
+44377,44377,Alfa Romeo,MiTo,Hatchback,5,3,8.2 sec,https://www.auto-data.net//images/f102/Alfa-Romeo-MiTo_1.jpg,2125
+6701,6701,Porsche,959,Coupe,4,2,3.9 sec,https://www.auto-data.net//images/f58/Porsche-959_1.jpg,2135
+33140,33140,Jeep,Grand Commander,SUV,7,5,https://www.auto-data.net//images/f21/jeep-grand-commander.jpg,2138
+28663,28663,Lancia,Dedra,Sedan,5,4,10.8 sec,https://www.auto-data.net//images/f71/Lancia-Dedra-835_1.jpg,2144
+3115,3115,Toyota,4runner,SUV,5,5,https://www.auto-data.net//images/f10/toyota-4runner-iii.jpg,2148
+13284,13284,Lada,2110,Sedan,https://www.auto-data.net//images/f6/big6276.jpg,2151
+11064,11064,Mazda,B-series,Pick-up,4,4,https://www.auto-data.net//images/f0/big5090.jpg,2155
+6793,6793,Fiat,124,Coupe,4,2,https://www.auto-data.net//images/f100/Fiat-124-Coupe.jpg,2157
+45673,45673,BYD,Tang,"SUV, Crossover",6-7,5,8.5 sec,https://www.auto-data.net//images/f90/BYD-Tang-II-facelift-2021_1.jpg,2158
+24217,24217,Aston Martin,Rapide,Fastback,4,2,4.9 sec,https://www.auto-data.net//images/f6/file2958290.jpg,2167
+11042,11042,BYD,F3,Sedan,5,4,12.3 sec,https://www.auto-data.net//images/f105/BYD-F3_1.jpg,2168
+16119,16119,Subaru,R2,Hatchback,5,5,https://www.auto-data.net//images/f33/Subaru-R2.jpg,2170
+3975,3975,Toyota,Nadia,Minivan,5,5,https://www.auto-data.net//images/f4/big1874.jpg,2172
+5524,5524,Peugeot,807,Minivan,8,5,12.2 sec,https://www.auto-data.net//images/f46/Peugeot-807_1.jpg,2175
+11243,11243,Mazda,RX-8,Coupe,4,4,7.2 sec,https://www.auto-data.net//images/f52/Mazda-RX-8_1.jpg,2176
+6685,6685,Porsche,944,Coupe,4,2,5.9 sec,https://www.auto-data.net//images/f14/Porsche-944.jpg,2180
+18956,18956,Mercedes-Benz,Viano,Minivan,6,5,12.1 sec,https://www.auto-data.net//images/f26/file2529780.jpg,2188
+23800,23800,Pagani,Huayra,Coupe,2,2,https://www.auto-data.net//images/f76/Pagani-Huayra_1.jpg,2192
+23137,23137,Volvo,S60,Sedan,5,4,10.2 sec,https://www.auto-data.net//images/f21/file9526870.jpg,2198
+48648,48648,Sportequipe,5,SUV,5,5,https://www.auto-data.net//images/f119/Sportequipe-5_1.jpg,2199
+15879,15879,Dacia,1300,Station wagon,https://www.auto-data.net//images/f2/big8042.jpg,2201
+32177,32177,Toyota,Sienna,Minivan,7-8,5,https://www.auto-data.net//images/f127/Toyota-Sienna-III-facelift-2018.jpg,2205
+38802,38802,Perodua,Bezza,Sedan,5,4,https://www.auto-data.net//images/f120/Perodua-Bezza-facelift-2020_1.jpg,2219
+37153,37153,Bordrin,iV6,"SUV, Crossover",5,5,8 sec,https://www.auto-data.net//images/f0/Bordrin-iV6.jpg,2223
+30668,30668,Genesis,G90/EQ900,Sedan,4-5,4,5.7 sec,https://www.auto-data.net//images/f0/genesis-g90-eq900.jpg,2224
+24977,24977,Nissan,Presea,Sedan,5,4,https://www.auto-data.net//images/f112/Nissan-Presea.jpg,2226
+24241,24241,Peugeot,3008,SUV,5,5,11.6-12.7 sec,https://www.auto-data.net//images/f65/Peugeot-3008-II-Phase-I-2016_1.jpg,2227
+14516,14516,Chevrolet,Vectra,Sedan,5,4,10.6 sec,https://www.auto-data.net//images/f4/big7234.jpg,2228
+4471,4471,Audi,Coupe,Coupe,5,2,8.4 sec,https://www.auto-data.net//images/f67/Audi-Coupe-B3-89_1.jpg,2229
+6040,6040,Audi,S3,Hatchback,5,5,6 sec,https://www.auto-data.net//images/f100/Audi-S3-Sportback-8PA_1.jpg,2230
+39662,39662,DeSoto,Firedome,Coupe,6,2,https://www.auto-data.net//images/f94/DeSoto-Club-Coupe-facelift-1954_1.jpg,2231
+17612,17612,Volvo,XC90,SUV,5,5,9.5 sec,https://www.auto-data.net//images/f67/Volvo-XC90_1.jpg,2234
+37843,37843,Honda,Amaze,Sedan,5,4,https://www.auto-data.net//images/f88/Honda-Amaze-I_1.jpg,2237
+983,983,Talbot,Horizon,Hatchback,https://www.auto-data.net//images/f111/Talbot-Horizon_1.jpg,2238
+24676,24676,Fiat,Fiorino,Minivan,2-5,5,https://www.auto-data.net//images/f2/file5240765.jpg,2240
+14526,14526,Chevrolet,Corvette,Coupe,2,2,5.6 sec,https://www.auto-data.net//images/f110/Chevrolet-Corvette-Coupe-YY_1.jpg,2244
+51139,51139,BMW,i5,Sedan,5,4,5.4 sec,https://www.auto-data.net//images/f58/BMW-i5-Sedan-G60_1.jpg,2246
+30692,30692,Lincoln,Continental,Sedan,5,4,https://www.auto-data.net//images/f9/lincoln-continental-x.jpg,2249
+3648,3648,Toyota,Crown Majesta,Sedan,5,4,https://www.auto-data.net//images/f24/toyota-crown-majesta-iv-s180.jpg,2252
+1218,1218,Tata,Mint,Hatchback,5,5,17 sec,https://www.auto-data.net//images/f0/big620.jpg,2262
+2610,2610,Tianma,Century,Pick-up,4,5,https://www.auto-data.net//images/f7/big1177.jpg,2263
+16465,16465,Suzuki,Sidekick,SUV,https://www.auto-data.net//images/f44/Suzuki-Sidekick_1.jpg,2270
+15609,15609,Mitsubishi,Space Wagon,Minivan,https://www.auto-data.net//images/f80/Mitsubishi-Space-Wagon-D0_W_1.jpg,2271
+24202,24202,Aston Martin,AMV8,Coupe,4,2,https://www.auto-data.net//images/f28/file2122821.jpg,2274
+14298,14298,ZIL,4104,Sedan,5,4,12 sec,https://www.auto-data.net//images/f78/ZIL-4104_1.jpg,2278
+10132,10132,Mahindra,Commander,Off-road vehicle,8,5,https://www.auto-data.net//images/f2/big4532.jpg,2282
+40084,40084,Toyota,Wildlander,SUV,5,5,https://www.auto-data.net//images/f65/Toyota-Wildlander_1.jpg,2284
+34100,34100,Nissan,Sylphy,Sedan,5,4,https://www.auto-data.net//images/f100/Nissan-Sylphy-EV.jpg,2292
+7007,7007,Fiat,Tempra,Sedan,5,13.6 sec,https://www.auto-data.net//images/f116/Fiat-Tempra-159.jpg,2294
+3626,3626,Toyota,Cresta,Sedan,5,4,https://www.auto-data.net//images/f47/Toyota-Cresta-GX90.jpg,2296
+5818,5818,TVR,2500,Coupe,https://www.auto-data.net//images/f88/TVR-2500.jpg,2298
+49049,49049,VinFast,VF 5,Hatchback,5,5,https://www.auto-data.net//images/f68/VinFast-VF5_1.jpg,2300
+51617,51617,M-Hero,917,"Off-road vehicle, SUV",5,5,4.2 sec,https://www.auto-data.net//images/f48/M-Hero-917_1.jpg,2302
+41840,41840,Toyota,Mirai,Sedan,5,4,9.2 sec,https://www.auto-data.net//images/f128/Toyota-Mirai-II_1.jpg,2309
+24923,24923,Fiat,Talento,Minivan,6-9,5,https://www.auto-data.net//images/f14/file556593.jpg,2310
+41926,41926,Aston Martin,Virage,Cabriolet,4,2,4.6 sec,https://www.auto-data.net//images/f37/Aston-Martin-Virage-II-Volante_1.jpg,2312
+33009,33009,Lada,Vesta,Crossover,5,5,11.2 sec,https://www.auto-data.net//images/f83/Lada-Vesta-SW-Cross_1.jpg,2316
+31397,31397,Ford,EcoSport,SUV,5,5,14 sec,https://www.auto-data.net//images/f12/ford-ecosport-ii-facelift-2017.jpg,2325
+3645,3645,Toyota,Aygo,Hatchback,4,5,16.8 sec,https://www.auto-data.net//images/f41/Toyota-Aygo_1.jpg,2331
+5981,5981,Pontiac,G6,Cabriolet,5,2,https://www.auto-data.net//images/f9/big2909.jpg,2332
+29527,29527,Infiniti,QX80,SUV,7-8,5,7.5 sec,https://www.auto-data.net//images/f109/Infiniti-QX80_1.jpg,2334
+23902,23902,Suzuki,Verona,Sedan,5,4,9.8 sec,https://www.auto-data.net//images/f128/Suzuki-Verona_1.jpg,2336
+52672,52672,Seat,Altea,MPV,5,5,14.7 sec,https://www.auto-data.net//images/f11/file9302522.jpg,2338
+29533,29533,Mazda,CX-4,SUV,5,5,https://www.auto-data.net//images/f4/mazda-cx-4.jpg,2347
+43862,43862,Bizzarrini,5300 GT Strada,Coupe,2,2,https://www.auto-data.net//images/f84/Bizzarrini-5300-GT-Strada_1.jpg,2348
+21687,21687,Suzuki,Vitara,SUV,5,5,11.5 sec,https://www.auto-data.net//images/f17/file4087833.jpg,2354
+29972,29972,Renault,Modus,Hatchback,5,5,15.3 sec,https://www.auto-data.net//images/f109/Renault-Modus-Phase-II_1.jpg,2357
+10149,10149,Brilliance,A1,Hatchback,5,5,https://www.auto-data.net//images/f5/big4535.jpg,2363
+37651,37651,Mercedes-Benz,GLC,SUV,5,5,4.9 sec,https://www.auto-data.net//images/f103/Mercedes-Benz-GLC-SUV-X253-facelift-2019_1.jpg,2375
+43105,43105,Toyota,86,Coupe,4,2,https://www.auto-data.net//images/f50/Toyota-86-II_1.jpg,2377
+33001,33001,Maserati,Levante,SUV,5,5,3.9 sec,https://www.auto-data.net//images/f126/Maserati-Levante_1.jpg,2387
+11081,11081,Mazda,121,Hatchback,5,3/5,15.9 sec,https://www.auto-data.net//images/f119/Mazda-121-III-JASM-JBSM_1.jpg,2402
+7256,7256,Fiat,Cinquecento,Hatchback,https://www.auto-data.net//images/f47/Fiat-Cinquecento_1.jpg,2404
+47548,47548,GMC,Sierra 2500HD,Pick-up,5,4,https://www.auto-data.net//images/f119/GMC-Sierra-2500HD-IV-Double-Cab-Standard-Box_1.jpg,2406
+37365,37365,Porsche,718,Coupe,2,2,4.7-4.9 sec,https://www.auto-data.net//images/f9/file7374698.jpg,2411
+29156,29156,Honda,Stream,Minivan,7,5,11.2 sec,https://www.auto-data.net//images/f46/Honda-Stream_1.jpg,2414
+47747,47747,Mercedes-Benz,EQA,SUV,5,5,8.6 sec,https://www.auto-data.net//images/f112/Mercedes-Benz-EQA_1.jpg,2416
+39015,39015,Toyota,Yaris,Hatchback,5,5,https://www.auto-data.net//images/f36/Toyota-Yaris-Asia-XP150-facelift_1.jpg,2417
+431,431,Nissan,Presage,Minivan,8,5,https://www.auto-data.net//images/f93/Nissan-Presage_1.jpg,2420
+51179,51179,Porsche,Taycan,Sedan,4-5,4,3.7 sec,https://www.auto-data.net//images/f101/Porsche-Taycan-Y1A-facelift-2024_1.jpg,2423
+52200,52200,Audi,A1,Crossover,5,5,10.3 sec,https://www.auto-data.net//images/f97/Audi-A1-allstreet-GB_1.jpg,2425
+1079,1079,Acura,CSX,Sedan,5,4,https://www.auto-data.net//images/f51/Acura-CSX-facelift-2009_1.jpg,2438
+34473,34473,Kia,Pro Cee'd,Station wagon,5,5,https://www.auto-data.net//images/f106/Kia-Pro-Ceed-III_1.jpg,2442
+16373,16373,Daewoo,Matiz,Hatchback,5,5,17 sec,https://www.auto-data.net//images/f120/Daewoo-Matiz-I_1.jpg,2443
+9590,9590,BMW,02,Sedan,4,2,9.4 sec,https://www.auto-data.net//images/f120/BMW-02-E10_1.jpg,2449
+37880,37880,Haval,F7,Fastback,5,5,https://www.auto-data.net//images/f33/Haval-F7x_1.jpg,2450
+19234,19234,Skoda,Roomster,MPV,5,5,10.9 sec,https://www.auto-data.net//images/f78/Skoda-Roomster-facelift-2010_1.jpg,2454
+11823,11823,Holden,Calais,Sedan,5,4,https://www.auto-data.net//images/f4/big5424.jpg,2458
+21665,21665,Mini,Roadster,Roadster,2,2,7.2 sec,https://www.auto-data.net//images/f26/file9509957.jpg,2470
+33190,33190,Chevrolet,Trailblazer,SUV,7,5,https://www.auto-data.net//images/f47/Chevrolet-Trailblazer-II-facelift-2016_1.jpg,2482
+14834,14834,Chrysler,Voyager,Minivan,7,4,12.5 sec,https://www.auto-data.net//images/f129/Chrysler-Voyager-II-GS.jpg,2488
+16612,16612,UAZ,Hunter,Off-road vehicle,7,5,https://www.auto-data.net//images/f88/UAZ-Hunter-315195_1.jpg,2503
+5780,5780,Eagle,Vision,Sedan,5,4,https://www.auto-data.net//images/f101/Eagle-Vision_1.jpg,2507
+14731,14731,Chrysler,Town & Country,Minivan,7,5,10 sec,https://www.auto-data.net//images/f126/Chrysler-Town-Country-V.jpg,2510
+957,957,Talbot,Avenger,Sedan,https://www.auto-data.net//images/f40/Talbot-Avenger_1.jpg,2516
+23049,23049,Seat,Ateca,SUV,5,5,10.5 sec,https://www.auto-data.net//images/f5/file6344824.jpg,2517
+33396,33396,BMW,8 Series,Coupe,4,2,3.7 sec,https://www.auto-data.net//images/f11/bmw-8er-g15.jpg,2519
+41027,41027,Mercedes-Benz,SLK,Roadster,2,2,7.9 sec,https://www.auto-data.net//images/f104/Mercedes-Benz-SLK-R171_1.jpg,2527
+38961,38961,Maserati,Ghibli,Sedan,5,4,4.9 sec,https://www.auto-data.net//images/f80/Maserati-Ghibli-III-M157-facelift-2017_1.jpg,2528
+23556,23556,Fiat,Tipo,Hatchback,5,5,9.6 sec,https://www.auto-data.net//images/f8/file132794.jpg,2531
+2676,2676,Kia,Opirus,Sedan,5,4,9.2 sec,https://www.auto-data.net//images/f84/Kia-Opirus_1.jpg,2555
+13318,13318,Mercury,Marauder,Cabriolet,4,2,6.8 sec,https://www.auto-data.net//images/f2/big6322.jpg,2557
+16460,16460,Suzuki,Jimny,"Off-road vehicle, Cabriolet",4,3,https://www.auto-data.net//images/f45/Suzuki-Jimny-Cabrio-FJ.jpg,2570
+33778,33778,Proton,Iriz,Hatchback,5,5,13.1 sec,https://www.auto-data.net//images/f13/Proton-Iriz.jpg,2579
+12204,12204,Honda,Prelude,Coupe,https://www.auto-data.net//images/f80/Honda-Prelude-III-BA.jpg,2588
+45682,45682,BYD,e3,Sedan,5,4,10.3 sec,https://www.auto-data.net//images/f33/BYD-e3_1.jpg,2591
+42605,42605,MG,ZR,Hatchback,5,3/5,7.8 sec,https://www.auto-data.net//images/f100/MG-ZR-facelift-2004_1.jpg,2593
+18563,18563,Hyundai,ix35,SUV,5,5,12.1 sec,https://www.auto-data.net//images/f54/Hyundai-ix35-Facelift-2013_1.jpg,2596
+13268,13268,Lada,2109,Hatchback,5,5,13 sec,https://www.auto-data.net//images/f4/big6254.jpg,2597
+18351,18351,Ferrari,California,Coupe - Cabriolet,4,2,3.8 sec,https://www.auto-data.net//images/f72/Ferrari-California_1.jpg,2610
+2901,2901,Dodge,Neon,Coupe,5,2,https://www.auto-data.net//images/f86/Dodge-Neon-Coupe_1.jpg,2623
+38418,38418,Renault,Symbol,Sedan,5,4,14.5 sec,https://www.auto-data.net//images/f59/Renault-Symbol-III_1.jpg,2624
+7969,7969,Ford,Granada,Station wagon,https://www.auto-data.net//images/f102/Ford-Granada-Turnier-GNU.jpg,2632
+11611,11611,Rover,2000-3500 Hatchback,Hatchback,5,5,https://www.auto-data.net//images/f42/Rover-2000-3500-Hatchback-SD1.jpg,2634
+16311,16311,Daewoo,Kalos,Hatchback,5,5,13.3 sec,https://www.auto-data.net//images/f107/Daewoo-Kalos_1.jpg,2636
+14000,14000,Infiniti,J30,Sedan,5,4,https://www.auto-data.net//images/f80/Infiniti-J30_1.jpg,2638
+21369,21369,Lotus,Exige,Coupe,2,2,4 sec,https://www.auto-data.net//images/f15/lotus-exige-iii-s-coupe.jpg,2639
+51343,51343,Opel,Zafira Life,Minivan,8-9,5,10.6 sec,https://www.auto-data.net//images/f129/Opel-Zafira-Life-S.jpg,2648
+50973,50973,Lexus,LS,Sedan,4-5,4,https://www.auto-data.net//images/f123/Lexus-LS-IV-Long-facelift-2009_1.jpg,2653
+10906,10906,Maserati,3200 GT,Coupe,4,2,5.1 sec,https://www.auto-data.net//images/f102/Maserati-3200-GT_1.jpg,2654
+35353,35353,DR,6,SUV,5,5,10 sec,https://www.auto-data.net//images/f77/DR-Automobiles-6_1.jpg,2665
+45601,45601,Volkswagen,Taigun,SUV,5,5,https://www.auto-data.net//images/f34/Volkswagen-Taigun_1.jpg,2666
+3170,3170,Toyota,Soarer,Coupe,5,2,https://www.auto-data.net//images/f26/toyota-soarer.jpg,2670
+448,448,Nissan,Cube,Station wagon,https://www.auto-data.net//images/f73/Nissan-Cube-II_1.jpg,2674
+48946,48946,Mitsubishi,eK X,"SUV, Crossover",4,5,https://www.auto-data.net//images/f59/Mitsubishi-eK-X_1.jpg,2679
+2612,2612,Alpine,1300,Coupe,https://www.auto-data.net//images/f44/Alpine-1300.jpg,2694
+41581,41581,Opel,Crossland,SUV,5,5,9.9 sec,https://www.auto-data.net//images/f127/Opel-Crossland-facelift-2020_1.jpg,2695
+3101,3101,Lamborghini,Urraco,Coupe,4,2,https://www.auto-data.net//images/f70/Lamborghini-Urraco_1.jpg,2700
+42576,42576,Hyundai,Bayon,"SUV, Crossover",5,5,13.5 sec,https://www.auto-data.net//images/f74/Hyundai-Bayon_1.jpg,2718
+15196,15196,Citroen,Dyane,"Sedan, Fastback",4,5,https://www.auto-data.net//images/f75/Citroen-Dyane_1.jpg,2720
+51290,51290,Renault,5 E-Tech,Hatchback,5,5,https://www.auto-data.net//images/f46/Renault-5-E-Tech_1.jpg,2726
+14484,14484,Chevrolet,Blazer,SUV,5,5,https://www.auto-data.net//images/f3/big7213.jpg,2728
+29602,29602,Pontiac,Sunfire,Sedan,5,4,https://www.auto-data.net//images/f108/Pontiac-Sunfire-Sedan.jpg,2732
+10140,10140,Mahindra,CJ 3,Off-road vehicle,https://www.auto-data.net//images/f49/Mahindra-CJ-3_1.jpg,2734
+35278,35278,Ford,Territory,SUV,5,5,https://www.auto-data.net//images/f65/Ford-Territory-China.jpg,2736
+10150,10150,Brilliance,BS6,Sedan,4,4,13.8 sec,https://www.auto-data.net//images/f55/Brilliance-BS6_1.jpg,2740
+22037,22037,Fiat,500,Cabriolet,4,3,12.9 sec,https://www.auto-data.net//images/f6/file9591345.jpg,2742
+32541,32541,TagAz,Aquila,Sedan,5,4,https://www.auto-data.net//images/f52/TagAz-Aquila.jpg,2754
+6934,6934,Fiat,128,Coupe,5,2,14.6 sec,https://www.auto-data.net//images/f80/Fiat-128-Coupe.jpg,2760
+49060,49060,Jeep,Commander,"SUV, Crossover",7,5,https://www.auto-data.net//images/f43/Jeep-Commander-2022_1.jpg,2769
+46027,46027,Peugeot,408 (crossover),"Coupe, SUV, Crossover",5,5,https://www.auto-data.net//images/f56/Peugeot-408-III_1.jpg,2772
+28965,28965,Mitsubishi,RVR,Minivan,4,4,https://www.auto-data.net//images/f65/Mitsubishi-RVR-E-N23W_1.jpg,2781
+32690,32690,Jaguar,I-Pace,"SUV, Crossover",5,5,4.8 sec,https://www.auto-data.net//images/f108/Jaguar-I-Pace_1.jpg,2791
+51774,51774,Zeekr,009,Minivan,4,5,3.9 sec,https://www.auto-data.net//images/f114/Zeekr-009_1.jpg,2798
+41823,41823,SsangYong,Kyron,SUV,5,5,15.4 sec,https://www.auto-data.net//images/f11/SsangYong-Kyron-facelift-2007.jpg,2802
+1577,1577,Oldsmobile,Aurora,Sedan,4,4,8.5 sec,https://www.auto-data.net//images/f3/Oldsmobile-Aurora-I.jpg,2803
+19684,19684,BMW,i8,Coupe,4,2,4.4 sec,https://www.auto-data.net//images/f46/BMW-i8-Coupe-I12_1.jpg,2807
+39194,39194,Peugeot,Landtrek,Pick-up,3,2,14.9 sec,https://www.auto-data.net//images/f65/Peugeot-Landtrek-Simple-Cab_1.jpg,2812
+2556,2556,Opel,Frontera,SUV,5,3,15 sec,https://www.auto-data.net//images/f72/Opel-Frontera-B-Sport_1.jpg,2817
+10131,10131,Mahindra,Bolero,SUV,8,5,https://www.auto-data.net//images/f115/Mahindra-Bolero-CJ7_1.jpg,2819
+5708,5708,Peugeot,306,Hatchback,5,3-5,12.9 sec,https://www.auto-data.net//images/f3/big2753.jpg,2820
+3773,3773,Toyota,Cynos,Cabriolet,4,2,https://www.auto-data.net//images/f52/Toyota-Cynos-EL52.jpg,2830
+11455,11455,Mazda,Protege,Station wagon,5,5,https://www.auto-data.net//images/f61/Mazda-Protege-Wagon.jpg,2835
+9166,9166,Volkswagen,Taro,Pick-up,https://www.auto-data.net//images/f76/Volkswagen-Taro.jpg,2843
+52279,52279,Denza,D9,MPV,7,5,9.5 sec,https://www.auto-data.net//images/f92/Denza-D9_1.jpg,2846
+44309,44309,Renault,Duster,SUV,5,5,10.7 sec,https://www.auto-data.net//images/f76/Renault-Duster-II_1.jpg,2853
+34658,34658,Hyundai,Celesta,Sedan,5,4,https://www.auto-data.net//images/f30/Hyundai-Celesta.jpg,2860
+3031,3031,KTM,X-Bow,Roadster,2,3.9 sec,https://www.auto-data.net//images/f34/KTM-X-Bow_1.jpg,2881
+15851,15851,Moskvich,427,Station wagon,5,5,https://www.auto-data.net//images/f0/big8020.jpg,2894
+50304,50304,Geometry,E,"SUV, Crossover",5,5,https://www.auto-data.net//images/f126/Geometry-E_1.jpg,2900
+48476,48476,Honda,Ridgeline,Pick-up,5,4,https://www.auto-data.net//images/f106/Honda-Ridgeline-I-facelift-2009_1.jpg,2901
+3812,3812,Toyota,Duet,Hatchback,5,5,https://www.auto-data.net//images/f76/Toyota-Duet-M10_1.jpg,2903
+17645,17645,Peugeot,4008,SUV,5,5,11.6 sec,https://www.auto-data.net//images/f127/Peugeot-4008_1.jpg,2912
+45115,45115,Mahindra,XUV700,SUV,7,5,https://www.auto-data.net//images/f108/Mahindra-XUV700_1.jpg,2916
+2783,2783,Kia,Shuma,Hatchback,5,5,10.3 sec,https://www.auto-data.net//images/f128/Kia-Shuma-FB_1.jpg,2929
+35304,35304,FAW,Besturn B70,Sedan,5,4,https://www.auto-data.net//images/f11/FAW-Besturn-B70-I.jpg,2930
+37896,37896,Seat,Mii,Hatchback,5,5,12.3 sec,https://www.auto-data.net//images/f34/Seat-Mii-Electric_1.jpg,2934
+21326,21326,Lexus,NX,"SUV, Crossover",5,5,7.1 sec,https://www.auto-data.net//images/f5/file9906131.jpg,2937
+44198,44198,Volkswagen,Eos,Coupe - Cabriolet,4,2,6.9 sec,https://www.auto-data.net//images/f63/Volkswagen-Eos_1.jpg,2938
+25192,25192,Abarth,124 Spider,Cabriolet,2,2,6.8 sec,https://www.auto-data.net//images/f9/file4451006.jpg,2942
+12492,12492,Hummer,H2,"Off-road vehicle, Pick-up",4,4,https://www.auto-data.net//images/f128/Hummer-H2-SUT_1.jpg,2944
+827,827,Nissan,Navara,Pick-up,4,2,11.5 sec,https://www.auto-data.net//images/f33/Nissan-Navara-III-D40_1.jpg,2947
+11749,11749,Holden,Caprice,Sedan,5,4,7.7 sec,https://www.auto-data.net//images/f7/big5407.jpg,2951
+666,666,Nissan,Expert,Station wagon,5,5,https://www.auto-data.net//images/f43/Nissan-Expert.jpg,2987
+14353,14353,Chevrolet,Geo Storm,Hatchback,7.1 sec,https://www.auto-data.net//images/f0/big7070.jpg,2988

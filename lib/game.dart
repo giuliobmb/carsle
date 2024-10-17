@@ -1,4 +1,4 @@
-import 'dart:ui'; // Necessario per usare l'effetto blur
+// Necessario per usare l'effetto blur
 import 'package:flutter/material.dart';
 
 class GamePage extends StatefulWidget {
