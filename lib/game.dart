@@ -1,5 +1,6 @@
 // Necessario per usare l'effetto blur
 import 'package:flutter/material.dart';
+import 'package:carsle/backend/gameservice.dart';
 
 class GamePage extends StatefulWidget {
   const GamePage({super.key, required this.title});
@@ -118,7 +119,7 @@ class _GamePageState extends State<GamePage> {
               color: Colors.black.withOpacity(0.3), // Colore dell'ombra
               spreadRadius: 2,
               blurRadius: 8,
-              offset: Offset(0, 4), // Posizione dell'ombra
+              offset: const Offset(0, 4), // Posizione dell'ombra
             ),
           ],
         ),
@@ -154,5 +155,6 @@ class _GamePageState extends State<GamePage> {
         ),
       ),
     );
+
   }
 }

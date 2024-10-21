@@ -1,7 +1,9 @@
+import 'package:carsle/backend/gameservice.dart';
 import 'package:flutter/material.dart';
 import 'home.dart';
 
 void main() {
+  new GameService();
   runApp(const MyApp());
 }
 

@@ -1,5 +1,5 @@
 name: carsle
-description: "A new Flutter project."
+description: ""
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -30,6 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  csv: any
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -55,6 +56,7 @@ flutter:
   assets:
     - assets/images/landing.webp
     - assets/images/giulia.jpg
+    - assets/cars/cars.csv
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
