@@ -1,9 +1,9 @@
 import 'package:carsle/backend/gameservice.dart';
 import 'package:flutter/material.dart';
+import 'dart:developer';
 import 'home.dart';
 
-void main() {
-  new GameService();
+void main() async {
   runApp(const MyApp());
 }
 
@@ -29,6 +29,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-
-
