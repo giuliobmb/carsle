@@ -59,5 +59,3 @@ Potential enhancements:
 Contributions are welcome! Fork the project, create a branch, and submit a pull request.
 
 ---
-
-Happy guessing, and enjoy the game!
