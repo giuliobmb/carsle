@@ -3,8 +3,7 @@ import 'dart:io';
 import 'package:csv/csv.dart';
 import 'package:carsle/backend/car.dart';
 import 'package:flutter/material.dart';
-
-import 'dart:math'; // Per la funzione random
+import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:carsle/backend/gameservice.dart';
 import 'package:carsle/backend/car.dart';
@@ -19,49 +18,50 @@ class GamePage extends StatefulWidget {
 }
 
 class _GamePageState extends State<GamePage> {
-  List<Car> allCars = []; // Lista delle auto caricate dal database
-  List<Car> filteredCars = []; // Lista delle auto filtrate in base alla ricerca
-  List<Car> visibleCars = []; // Lista delle auto visibili (selezionate)
-  Car? randomCar; // L'auto da indovinare
-  int attempts = 0; // Contatore dei tentativi dell'utente
-  int maxAttempts = 10; // Numero massimo di tentativi permessi
-  bool gameWon = false; // Stato di vittoria
-  bool gameOver = false; // Stato di sconfitta
-  bool carsLoaded = false; // Variabile che indica se le auto sono state caricate
-  String searchQuery = ''; // Stringa di ricerca
+  List<Car> allCars = []; 
+  List<Car> filteredCars = []; 
+  List<Car> visibleCars = []; 
+  Car? randomCar; 
+  int attempts = 0; 
+  int maxAttempts = 10; 
+  bool gameWon = false; 
+  bool gameOver = false; 
+  bool carsLoaded = false; 
+  String searchQuery = ''; 
 
-  TextEditingController searchController = TextEditingController(); // Controller per la barra di ricerca
+  TextEditingController searchController = TextEditingController();
 
+  /// Inizializza la pagina e carica le auto dal database
   @override
   void initState() {
     super.initState();
-    _loadCars(); // Carica le auto quando la pagina viene inizializzata
+    _loadCars();
   }
 
+  /// Carica tutte le auto dal database e seleziona un'auto casuale da indovinare
   Future<void> _loadCars() async {
     GameService g = GameService();
-    await g.init(); // Carica le auto dal database
+    await g.init();
 
     setState(() {
       allCars = g.cars;
       carsLoaded = allCars.isNotEmpty;
-      _pickRandomCar(); // Seleziona l'auto casuale da indovinare
+      _pickRandomCar();
     });
   }
 
-  // Funzione per selezionare un'auto casuale
+  /// Seleziona un'auto casuale da indovinare
   void _pickRandomCar() {
     final random = Random();
     randomCar = allCars[random.nextInt(allCars.length)];
-    print('Auto da indovinare: ${randomCar?.brand} ${randomCar?.model}'); // Debug
+    print('Auto da indovinare: ${randomCar?.brand} ${randomCar?.model}');
   }
 
+  /// Gestisce la ricerca filtrando la lista delle auto in base alla query
   void _handleSearch(String query) {
     setState(() {
-      // Rimuovi spazi bianchi iniziali e finali dalla query
       searchQuery = query.trim();
 
-      // Filtro solo se la query non è vuota
       if (searchQuery.isNotEmpty) {
         filteredCars = allCars.where((car) {
           return car.model.toLowerCase().contains(searchQuery.toLowerCase()) || car.brand.toLowerCase().contains(searchQuery.toLowerCase());
@@ -72,51 +72,48 @@ class _GamePageState extends State<GamePage> {
     });
   }
 
+  /// Seleziona un'auto e verifica se è quella da indovinare
   void _selectCar(Car car) {
     setState(() {
       if (attempts < maxAttempts && !gameOver && !gameWon) {
-        attempts++; // Incrementa il contatore di tentativi
+        attempts++;
 
-        // Aggiungi l'auto selezionata alla lista visibile
         if (!visibleCars.contains(car)) {
           visibleCars.add(car);
         }
 
-        // Verifica se l'utente ha indovinato
         if (car == randomCar) {
           gameWon = true;
         } else if (attempts == maxAttempts) {
           gameOver = true;
         }
 
-        // Pulisce la barra di ricerca
         searchController.clear();
-        searchQuery = ''; // Resetta la barra di ricerca
-        filteredCars = []; // Svuota la lista dei risultati dopo la selezione
+        searchQuery = '';
+        filteredCars = [];
       }
     });
   }
 
-  // Funzione per colorare in base alla corrispondenza dei dati e aggiungere frecce per i numeri
+  /// Crea un widget colorato con frecce per indicare corrispondenze parziali
   Widget buildColoredInfoBox(String label, dynamic value, dynamic targetValue, Color defaultColor) {
     Color color = _getColor(label.toLowerCase(), value, targetValue);
     Icon? directionIcon;
 
-    // Aggiungiamo frecce solo per i valori numerici, senza colorare i sedili
     if (label.toLowerCase() == 'seats' && value != targetValue) {
       directionIcon = value < targetValue
-          ? const Icon(Icons.arrow_upward, color: Colors.yellowAccent, size: 16) // Freccia in su se il valore è minore
-          : const Icon(Icons.arrow_downward, color: Colors.yellowAccent, size: 16); // Freccia in giù se il valore è maggiore
+          ? const Icon(Icons.arrow_upward, color: Colors.yellowAccent, size: 16)
+          : const Icon(Icons.arrow_downward, color: Colors.yellowAccent, size: 16);
     } else if (value is num && targetValue is num && value != targetValue) {
       directionIcon = value < targetValue
-          ? const Icon(Icons.arrow_upward, color: Colors.yellowAccent, size: 16) // Freccia in su se il valore è minore
-          : const Icon(Icons.arrow_downward, color: Colors.yellowAccent, size: 16); // Freccia in giù se il valore è maggiore
+          ? const Icon(Icons.arrow_upward, color: Colors.yellowAccent, size: 16)
+          : const Icon(Icons.arrow_downward, color: Colors.yellowAccent, size: 16);
     }
 
     return Container(
       padding: const EdgeInsets.all(10),
       decoration: BoxDecoration(
-        color: (label.toLowerCase() == 'seats' && value != targetValue) ? Colors.transparent : color, // Nessun colore giallo per i sedili
+        color: (label.toLowerCase() == 'seats' && value != targetValue) ? Colors.transparent : color,
         borderRadius: BorderRadius.circular(10),
       ),
       child: Row(
@@ -133,7 +130,7 @@ class _GamePageState extends State<GamePage> {
                 style: const TextStyle(color: Colors.black, fontSize: 16),
               ),
               if (directionIcon != null) ...[
-                const SizedBox(width: 5), // Spazio tra il testo e l'icona
+                const SizedBox(width: 5),
                 directionIcon,
               ],
             ],
@@ -143,44 +140,41 @@ class _GamePageState extends State<GamePage> {
     );
   }
 
-  // Funzione per colorare in base alla corrispondenza dei dati
+  /// Calcola il colore da assegnare in base alla corrispondenza dei valori di campo
   Color _getColor(String field, dynamic carValue, dynamic targetValue) {
     if (field == 'doors' && ((carValue == 4 && targetValue == 5) || (carValue == 5 && targetValue == 4))) {
-      return Colors.greenAccent; // Tratta 4 porte come equivalente a 5 porte
+      return Colors.greenAccent;
     }
 
     if (carValue == targetValue) {
-      return Colors.greenAccent; // Perfetta corrispondenza
+      return Colors.greenAccent;
     }
 
     if (field == 'model' || field == 'brand') {
-      // Somiglianza basata sulla lunghezza delle stringhe (vicinanza "approssimativa")
       if (carValue.toLowerCase().startsWith(targetValue.toLowerCase()[0])) {
         return Colors.yellowAccent;
       }
     } else if (field == 'doors') {
-      // Differenza numerica di 1-2 (con eccezione per doors 4-5)
       if ((carValue - targetValue).abs() <= 2) {
         return Colors.yellowAccent;
       }
     } else if (field == 'acceleration') {
-      // Vicinanza nell'accelerazione entro 0.5 secondi
       if ((carValue - targetValue).abs() <= 0.5) {
         return Colors.yellowAccent;
       }
     }
 
-    return Colors.redAccent; // Nessuna corrispondenza
+    return Colors.redAccent;
   }
 
-  // Funzione per resettare il gioco
+  /// Resetta il gioco
   void _resetGame() {
     setState(() {
-      visibleCars.clear(); // Svuota le auto selezionate
-      attempts = 0; // Resetta i tentativi
-      gameWon = false; // Resetta lo stato di vittoria
-      gameOver = false; // Resetta lo stato di sconfitta
-      _pickRandomCar(); // Seleziona una nuova auto casuale
+      visibleCars.clear();
+      attempts = 0;
+      gameWon = false;
+      gameOver = false;
+      _pickRandomCar();
     });
   }
 
@@ -193,7 +187,6 @@ class _GamePageState extends State<GamePage> {
           aspectRatio: 9 / 16,
           child: Stack(
             children: [
-              // Freccia in alto a sinistra
               Positioned(
                 top: 10,
                 left: 10,
@@ -204,8 +197,6 @@ class _GamePageState extends State<GamePage> {
                   },
                 ),
               ),
-
-              // Counter dei tentativi in alto a sinistra
               Positioned(
                 top: 10,
                 left: 50,
@@ -214,8 +205,6 @@ class _GamePageState extends State<GamePage> {
                   style: const TextStyle(color: Colors.white, fontSize: 18),
                 ),
               ),
-
-              // Barra di ricerca dinamica attiva quando carsLoaded è true
               if (carsLoaded && !gameOver && !gameWon)
                 Positioned(
                   top: 50,
@@ -224,7 +213,6 @@ class _GamePageState extends State<GamePage> {
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      // Barra di ricerca
                       TextField(
                         controller: searchController,
                         onChanged: _handleSearch,
@@ -241,27 +229,22 @@ class _GamePageState extends State<GamePage> {
                         ),
                       ),
                       const SizedBox(height: 10),
-
-                      // Hint con il brand dell'auto da indovinare
                       if (randomCar != null)
                         Text(
                           'Hint: ${randomCar!.brand}',
                           style: const TextStyle(color: Colors.white70, fontSize: 16),
                         ),
-                      const SizedBox(height: 20), // Spazio aggiunto tra la barra e la lista di carte
+                      const SizedBox(height: 20),
                     ],
                   ),
                 ),
-
-              // Contenuto principale (lista auto)
               Positioned(
-                top: carsLoaded ? 120 : 80, // Alza le carte per posizionarle più in alto
+                top: carsLoaded ? 120 : 80,
                 left: 10,
                 right: 10,
                 bottom: 10,
                 child: Stack(
                   children: [
-                    // Visualizza solo le auto selezionate (visibleCars)
                     ListView.builder(
                       itemCount: visibleCars.length,
                       itemBuilder: (context, index) {
@@ -269,17 +252,15 @@ class _GamePageState extends State<GamePage> {
                         return Column(
                           children: [
                             buildCarCard(car),
-                            const SizedBox(height: 20), // Spazio tra le carte
+                            const SizedBox(height: 20),
                           ],
                         );
                       },
                     ),
-
-                    // Sovrapponi la tendina di ricerca alle carte
                     if (searchQuery.isNotEmpty && filteredCars.isNotEmpty)
                       Positioned.fill(
                         child: Container(
-                          color: Colors.grey[900], // Colore senza opacity, copre le carte
+                          color: Colors.grey[900],
                           child: ListView.builder(
                             padding: const EdgeInsets.symmetric(vertical: 10),
                             itemCount: filteredCars.length,
@@ -291,7 +272,7 @@ class _GamePageState extends State<GamePage> {
                                   style: const TextStyle(color: Colors.white),
                                 ),
                                 onTap: () {
-                                  _selectCar(car); // Aggiungi l'auto selezionata
+                                  _selectCar(car);
                                 },
                               );
                             },
@@ -301,8 +282,6 @@ class _GamePageState extends State<GamePage> {
                   ],
                 ),
               ),
-
-              // Mostra il banner "You Won" quando l'utente indovina
               if (gameWon)
                 Positioned.fill(
                   child: Container(
@@ -320,10 +299,10 @@ class _GamePageState extends State<GamePage> {
                             ),
                           ),
                           const SizedBox(height: 20),
-                          buildCarCard(randomCar!), // Mostra la carta dell'auto indovinata
+                          buildCarCard(randomCar!),
                           const SizedBox(height: 20),
                           ElevatedButton(
-                            onPressed: _resetGame, // Resetta il gioco
+                            onPressed: _resetGame,
                             child: const Text('Try Again'),
                           ),
                         ],
@@ -331,8 +310,6 @@ class _GamePageState extends State<GamePage> {
                     ),
                   ),
                 ),
-
-              // Mostra il banner "Game Over" quando l'utente esaurisce i tentativi
               if (gameOver)
                 Positioned.fill(
                   child: Container(
@@ -351,7 +328,7 @@ class _GamePageState extends State<GamePage> {
                           ),
                           const SizedBox(height: 20),
                           ElevatedButton(
-                            onPressed: _resetGame, // Resetta il gioco
+                            onPressed: _resetGame,
                             child: const Text('Try Again'),
                           ),
                         ],
@@ -366,13 +343,13 @@ class _GamePageState extends State<GamePage> {
     );
   }
 
-  // Funzione per costruire la carta con i dati dell'auto
+  /// Costruisce una carta visuale con i dettagli dell'auto
   Widget buildCarCard(Car car) {
     return ClipRRect(
       borderRadius: BorderRadius.circular(15),
       child: Container(
         decoration: BoxDecoration(
-          color: Colors.grey, // Nessuna opacity
+          color: Colors.grey,
           borderRadius: BorderRadius.circular(15),
           boxShadow: [
             BoxShadow(
@@ -387,25 +364,22 @@ class _GamePageState extends State<GamePage> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            // Immagine dell'auto
             Container(
               height: 200,
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(15),
                 image: DecorationImage(
-                  image: NetworkImage(car.image), // Usa NetworkImage per caricare l'immagine da URL
+                  image: NetworkImage(car.image),
                   fit: BoxFit.cover,
                 ),
               ),
             ),
             const SizedBox(height: 20),
-
-            // Dati con colorazione dinamica
             buildColoredInfoBox('Brand', car.brand, randomCar!.brand, Colors.redAccent),
             const SizedBox(height: 10),
             buildColoredInfoBox('Model', car.model, randomCar!.model, Colors.blueAccent),
             const SizedBox(height: 10),
-            buildColoredInfoBox('Seats', car.seats, randomCar!.seats, Colors.transparent), // Solo freccia per i sedili
+            buildColoredInfoBox('Seats', car.seats, randomCar!.seats, Colors.transparent),
             const SizedBox(height: 10),
             buildColoredInfoBox('Doors', car.doors, randomCar!.doors, Colors.greenAccent),
             const SizedBox(height: 10),
